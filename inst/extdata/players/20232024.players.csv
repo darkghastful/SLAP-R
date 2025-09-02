@@ -1,0 +1,654 @@
+"playerId","headshot","sweaterNumber","positionCode","shootsCatches","heightInInches","weightInPounds","heightInCentimeters","weightInKilograms","birthDate","birthCountry","firstName","lastName","birthCity","birthStateProvince","teamId"
+8475170,"https://assets.nhle.com/mugs/nhl/20232024/STL/8475170.png",10,"C","L",73,199,185,90,"1991-08-22","CAN","Brayden","Schenn","Saskatoon","SK",19
+8475181,"https://assets.nhle.com/mugs/nhl/20232024/STL/8475181.png",4,"D","L",72,205,183,93,"1991-03-20","USA","Nick","Leddy","Eden Prairie","MN",19
+8475753,"https://assets.nhle.com/mugs/nhl/20232024/STL/8475753.png",72,"D","R",72,214,183,97,"1992-03-20","USA","Justin","Faulk","South St. Paul","MN",19
+8476412,"https://assets.nhle.com/mugs/nhl/20232024/STL/8476412.png",50,"G","L",74,172,188,78,"1993-07-11","CAN","Jordan","Binnington","Richmond Hill","ON",19
+8476438,"https://assets.nhle.com/mugs/nhl/20232024/STL/8476438.png",20,"L","L",73,215,185,98,"1992-10-27","USA","Brandon","Saad","Pittsburgh","PA",19
+8476792,"https://assets.nhle.com/mugs/nhl/20232024/STL/8476792.png",47,"D","L",69,194,175,88,"1991-04-12","USA","Torey","Krug","Livonia","MI",19
+8476892,"https://assets.nhle.com/mugs/nhl/20232024/STL/8476892.png",55,"D","R",78,228,198,103,"1993-05-12","CAN","Colton","Parayko","St. Albert","AB",19
+8476897,"https://assets.nhle.com/mugs/nhl/20232024/STL/8476897.png",70,"C","R",75,220,191,100,"1994-03-23","SWE","Oskar","Sundqvist","Boden",NA,19
+8477402,"https://assets.nhle.com/mugs/nhl/20232024/STL/8477402.png",89,"L","L",73,196,185,89,"1995-04-17","RUS","Pavel","Buchnevich","Cherepovets",NA,19
+8477573,"https://assets.nhle.com/mugs/nhl/20232024/STL/8477573.png",26,"L","L",69,187,175,85,"1994-02-07","GBR","Nathan","Walker","Cardiff",NA,19
+8479385,"https://assets.nhle.com/mugs/nhl/20232024/STL/8479385.png",25,"C","R",73,196,185,89,"1998-05-05","CAN","Jordan","Kyrou","Toronto","ON",19
+8480023,"https://assets.nhle.com/mugs/nhl/20232024/STL/8480023.png",18,"C","R",72,218,183,99,"1999-07-02","CAN","Robert","Thomas","Aurora","ON",19
+8480074,"https://assets.nhle.com/mugs/nhl/20232024/STL/8480074.png",NA,"C","L",73,201,185,91,"1999-09-13","FRA","Alexandre","Texier","Saint-Martin-d'Hères",NA,19
+8480281,"https://assets.nhle.com/mugs/nhl/20232024/STL/8480281.png",13,"R","L",78,222,198,101,"1999-06-25","RUS","Alexey","Toropchenko","Moscow",NA,19
+8480981,"https://assets.nhle.com/mugs/nhl/20232024/STL/8480981.png",30,"G","L",77,179,196,81,"2000-07-30","CAN","Joel","Hofer","Winnipeg","MB",19
+8481006,"https://assets.nhle.com/mugs/nhl/20232024/STL/8481006.png",75,"D","L",73,204,185,93,"2000-03-01","CAN","Tyler","Tucker","Thunder Bay","ON",19
+8481059,"https://assets.nhle.com/mugs/nhl/20232024/STL/8481059.png",48,"D","L",70,175,178,79,"1998-08-18","USA","Scott","Perunovich","Hibbing","MN",19
+8481543,"https://assets.nhle.com/mugs/nhl/20232024/STL/8481543.png",59,"C","L",73,177,185,80,"2000-09-16","DEU","Nikita","Alexandrov","Burgwedel",NA,19
+8482089,"https://assets.nhle.com/mugs/nhl/20232024/STL/8482089.png",63,"L","L",72,201,183,91,"2002-03-29","CAN","Jake","Neighbours","Calgary","AB",19
+8471685,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8471685.png",11,"C","L",75,225,191,102,"1987-08-24","SVN","Anze","Kopitar","Jesenice",NA,26
+8474563,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8474563.png",8,"D","R",73,210,185,95,"1989-12-08","CAN","Drew","Doughty","London","ON",26
+8475311,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8475311.png",35,"G","L",77,215,196,98,"1990-05-05","CAN","Darcy","Kuemper","Saskatoon","SK",26
+8476479,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8476479.png",24,"C","L",73,200,185,91,"1993-02-24","CAN","Phillip","Danault","Victoriaville","QC",26
+8477335,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8477335.png",NA,"D","R",72,193,183,88,"1995-07-12","CAN","Kyle","Burroughs","Vancouver","BC",26
+8477942,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8477942.png",22,"L","L",72,205,183,93,"1996-07-22","CHE","Kevin","Fiala","St. Gallen",NA,26
+8477960,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8477960.png",9,"R","L",74,200,188,91,"1996-09-13","SWE","Adrian","Kempe","Kramfors",NA,26
+8477971,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8477971.png",5,"D","L",76,200,193,91,"1996-01-21","SWE","Andreas","Englund","Stockholm",NA,26
+8478882,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8478882.png",84,"D","L",75,220,191,100,"1995-11-21","RUS","Vladislav","Gavrikov","Yaroslavl",NA,26
+8479421,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8479421.png",43,"D","L",75,210,191,95,"1998-08-31","SWE","Jacob","Moverare","Ostersund",NA,26
+8479496,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8479496.png",31,"G","L",76,205,193,93,"1992-08-19","CZE","David","Rittich","Jihlava",NA,26
+8479661,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8479661.png",NA,"L","L",74,220,188,100,"1997-05-29","CAN","Tanner","Jeannot","Estevan","SK",26
+8479675,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8479675.png",12,"L","L",71,195,180,88,"1995-03-31","USA","Trevor","Moore","Thousand Oaks","CA",26
+8479998,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8479998.png",44,"D","L",72,195,183,88,"1999-05-25","USA","Mikey","Anderson","Roseville","MN",26
+8481560,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8481560.png",34,"R","L",74,210,188,95,"2001-06-26","UZB","Arthur","Kaliyev","Tashkent",NA,26
+8481606,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8481606.png",21,"D","R",71,180,180,82,"2001-02-24","AUS","Jordan","Spence","Manly",NA,26
+8482124,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8482124.png",55,"R","L",77,225,196,102,"2002-08-19","CAN","Quinton","Byfield","Newmarket","ON",26
+8482155,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8482155.png",78,"R","R",73,205,185,93,"2001-10-28","USA","Alex","Laferriere","Chatham","NJ",26
+8482730,"https://assets.nhle.com/mugs/nhl/20232024/LAK/8482730.png",92,"D","R",74,200,188,91,"2003-02-09","CAN","Brandt","Clarke","Nepean","ON",26
+8471215,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8471215.png",71,"C","L",75,195,191,88,"1986-07-31","RUS","Evgeni","Malkin","Magnitogorsk",NA,5
+8471675,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8471675.png",87,"C","L",71,200,180,91,"1987-08-07","CAN","Sidney","Crosby","Cole Harbour","NS",5
+8471724,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8471724.png",58,"D","R",72,201,183,91,"1987-04-24","CAN","Kris","Letang","Montréal","QC",5
+8474189,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8474189.png",20,"C","L",74,205,188,93,"1989-05-08","DNK","Lars","Eller","Rodovre",NA,5
+8474578,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8474578.png",65,"D","R",72,190,183,86,"1990-05-31","SWE","Erik","Karlsson","Landsbro",NA,5
+8475191,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8475191.png",19,"R","L",73,185,185,84,"1991-04-01","CAN","Reilly","Smith","Mimico","ON",5
+8475763,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8475763.png",NA,"R","L",77,216,196,98,"1992-05-08","USA","Kevin","Hayes","Dorchester","MA",5
+8475810,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8475810.png",17,"R","R",71,192,180,87,"1992-05-11","USA","Bryan","Rust","Pontiac","MI",5
+8476442,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8476442.png",83,"L","L",71,187,180,85,"1992-11-05","USA","Matt","Nieto","Long Beach","CA",5
+8476483,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8476483.png",67,"R","R",73,195,185,88,"1993-05-05","SWE","Rickard","Rakell","Sundbyberg",NA,5
+8477435,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8477435.png",27,"D","L",77,220,196,100,"1995-05-21","CAN","Ryan","Graves","Yarmouth","NS",5
+8477465,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8477465.png",35,"G","L",74,194,188,88,"1995-04-29","CAN","Tristan","Jarry","Surrey","BC",5
+8477968,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8477968.png",39,"G","L",72,208,183,94,"1996-01-07","USA","Alex","Nedeljkovic","Parma","OH",5
+8477969,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8477969.png",28,"D","L",75,177,191,80,"1996-05-08","SWE","Marcus","Pettersson","Skelleftea",NA,5
+8478047,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8478047.png",8,"L","L",72,192,183,87,"1995-09-17","CAN","Michael","Bunting","Scarborough","ON",5
+8478569,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8478569.png",55,"C","R",70,209,178,95,"1991-12-01","USA","Noel","Acciari","Johnston","RI",5
+8479344,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8479344.png",18,"R","R",76,201,193,91,"1998-05-07","SWE","Jesse","Puljujarvi","Alvkarleby",NA,5
+8481206,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8481206.png",7,"D","L",73,213,185,97,"2000-08-02","CZE","John","Ludvig","Liberec",NA,5
+8482055,"https://assets.nhle.com/mugs/nhl/20232024/PIT/8482055.png",10,"L","L",75,200,191,91,"1998-06-09","USA","Drew","O'Connor","Chatham","NJ",5
+8471214,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8471214.png",8,"L","R",75,238,191,108,"1985-09-17","RUS","Alex","Ovechkin","Moscow",NA,15
+8471698,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8471698.png",77,"R","R",72,187,183,85,"1986-12-23","USA","T.J.","Oshie","Everett","WA",15
+8473563,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8473563.png",19,"C","L",73,202,185,92,"1987-11-23","SWE","Nicklas","Backstrom","Gavle",NA,15
+8474590,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8474590.png",74,"D","R",75,215,191,98,"1990-01-10","USA","John","Carlson","Natick","MA",15
+8475324,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8475324.png",3,"D","R",73,205,185,93,"1990-09-21","USA","Nick","Jensen","Rogers","MN",15
+8475343,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8475343.png",26,"C","R",73,193,185,88,"1990-05-27","USA","Nic","Dowd","Huntsville","AL",15
+8475958,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8475958.png",23,"C","L",72,179,183,81,"1992-07-25","CAN","Michael","Sgarbossa","Campbellville","ON",15
+8476880,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8476880.png",43,"R","R",76,220,193,100,"1994-03-29","CAN","Tom","Wilson","Toronto","ON",15
+8477845,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8477845.png",57,"D","R",75,191,191,87,"1991-07-24","USA","Trevor","van Riemsdyk","Middletown","NJ",15
+8477947,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8477947.png",15,"L","L",72,194,183,88,"1996-05-12","USA","Sonny","Milano","Massapequa","NY",15
+8478233,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8478233.png",88,"L","L",70,184,178,83,"1996-04-04","CAN","Andrew","Mangiapane","Toronto","ON",15
+8478440,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8478440.png",17,"C","L",75,200,191,91,"1997-03-07","CAN","Dylan","Strome","Mississauga","ON",15
+8478451,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8478451.png",25,"D","R",71,197,180,89,"1997-06-26","CAN","Ethan","Bear","Regina","SK",15
+8479292,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8479292.png",79,"G","R",74,179,188,81,"1993-12-18","USA","Charlie","Lindgren","Lakeville","MN",15
+8479400,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8479400.png",80,"L","L",76,225,193,102,"1998-06-24","CAN","Pierre-Luc","Dubois","Ste-Agathe-des-Monts","QC",15
+8480313,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8480313.png",48,"G","R",76,205,193,93,"1997-02-25","CAN","Logan","Thompson","Calgary","AB",15
+8480796,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8480796.png",42,"D","L",74,199,188,90,"1999-10-06","SVK","Martin","Fehérváry","Bratislava",NA,15
+8480823,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8480823.png",27,"D","L",76,213,193,97,"1999-11-15","RUS","Alexander","Alexeyev","St. Petersburg",NA,15
+8480873,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8480873.png",38,"D","L",71,182,180,83,"2000-03-07","SWE","Rasmus","Sandin","Uppsala",NA,15
+8481580,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8481580.png",24,"C","L",72,180,183,82,"2001-01-15","CAN","Connor","McMichael","Ajax","ON",15
+8481656,"https://assets.nhle.com/mugs/nhl/20232024/WSH/8481656.png",21,"C","L",78,225,198,102,"2001-01-06","BLR","Aliaksei","Protas","Vitebsk",NA,15
+8473512,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8473512.png",28,"R","R",71,188,180,85,"1988-01-12","CAN","Claude","Giroux","Hearst","ON",9
+8474612,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8474612.png",23,"D","R",73,200,185,91,"1990-08-16","CAN","Travis","Hamonic","St. Malo","MB",9
+8476341,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8476341.png",31,"G","L",75,195,191,88,"1992-11-27","SWE","Anton","Forsberg","Härnösand",NA,9
+8476999,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8476999.png",NA,"G","L",76,213,193,97,"1993-07-31","SWE","Linus","Ullmark","Lugnvik",NA,9
+8478469,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8478469.png",72,"D","L",74,203,188,92,"1997-01-30","CAN","Thomas","Chabot","Sainte-Marie","QC",9
+8478472,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8478472.png",21,"R","L",73,186,185,84,"1997-02-09","CAN","Mathieu","Joseph","Laval","QC",9
+8479345,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8479345.png",6,"D","L",74,205,188,93,"1998-03-31","USA","Jakob","Chychrun","Boca Raton","FL",9
+8479772,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8479772.png",17,"R","R",76,240,193,109,"1996-07-08","CAN","Zack","MacEwen","Charlottetown","PE",9
+8480064,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8480064.png",9,"C","L",74,195,188,88,"1999-05-05","USA","Josh","Norris","Oxford","MI",9
+8480208,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8480208.png",19,"R","R",75,203,191,92,"1998-04-27","USA","Drake","Batherson","Fort Wayne","IN",9
+8480801,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8480801.png",7,"L","L",76,225,193,102,"1999-09-16","USA","Brady","Tkachuk","Scottsdale","AZ",9
+8480879,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8480879.png",24,"D","R",72,190,183,86,"2000-06-30","CAN","Jacob","Bernard-Docker","Canmore","AB",9
+8481596,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8481596.png",57,"C","R",75,201,191,91,"2000-11-12","USA","Shane","Pinto","Franklin Square","NY",9
+8482092,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8482092.png",71,"C","L",72,184,183,83,"2002-08-08","CAN","Ridly","Greig","Lethbridge","AB",9
+8482105,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8482105.png",85,"D","L",74,203,188,92,"2002-07-08","USA","Jake","Sanderson","Whitefish","MT",9
+8482116,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8482116.png",18,"C","L",72,197,183,89,"2002-01-15","DEU","Tim","Stützle","Viersen",NA,9
+8482245,"https://assets.nhle.com/mugs/nhl/20232024/OTT/8482245.png",2,"D","R",75,204,191,93,"1995-10-03","RUS","Artem","Zub","Khabarovsk",NA,9
+8475780,"https://assets.nhle.com/mugs/nhl/20232024/COL/8475780.png",14,"R","R",72,192,183,87,"1991-05-27","USA","Chris","Wagner","Walpole","MA",21
+8476312,"https://assets.nhle.com/mugs/nhl/20232024/COL/8476312.png",42,"D","R",75,218,191,99,"1991-10-07","USA","Josh","Manson","Hinsdale","IL",21
+8477425,"https://assets.nhle.com/mugs/nhl/20232024/COL/8477425.png",28,"L","L",74,195,188,88,"1995-09-13","USA","Miles","Wood","Buffalo","NY",21
+8477476,"https://assets.nhle.com/mugs/nhl/20232024/COL/8477476.png",62,"L","L",71,179,180,81,"1995-07-04","FIN","Artturi","Lehkonen","Piikkio",NA,21
+8477492,"https://assets.nhle.com/mugs/nhl/20232024/COL/8477492.png",29,"C","R",72,200,183,91,"1995-09-01","CAN","Nathan","MacKinnon","Halifax","NS",21
+8478038,"https://assets.nhle.com/mugs/nhl/20232024/COL/8478038.png",7,"D","L",73,191,185,87,"1994-02-21","CAN","Devon","Toews","Abbotsford","BC",21
+8478420,"https://assets.nhle.com/mugs/nhl/20232024/COL/8478420.png",96,"R","L",76,215,193,98,"1996-10-29","FIN","Mikko","Rantanen","Nousiainen",NA,21
+8479387,"https://assets.nhle.com/mugs/nhl/20232024/COL/8479387.png",67,"D","L",78,240,198,109,"1998-02-10","CAN","Keaton","Middleton","Edmonton","AB",21
+8479398,"https://assets.nhle.com/mugs/nhl/20232024/COL/8479398.png",49,"D","L",70,170,178,77,"1998-05-12","CAN","Samuel","Girard","Roberval","QC",21
+8479525,"https://assets.nhle.com/mugs/nhl/20232024/COL/8479525.png",20,"C","L",72,194,183,88,"1996-09-11","USA","Ross","Colton","Robbinsville","NJ",21
+8479999,"https://assets.nhle.com/mugs/nhl/20232024/COL/8479999.png",37,"C","L",73,195,185,88,"1998-11-22","USA","Casey","Mittelstadt","Eden Prairie","MN",21
+8480069,"https://assets.nhle.com/mugs/nhl/20232024/COL/8480069.png",8,"D","R",72,187,183,85,"1998-10-30","CAN","Cale","Makar","Calgary","AB",21
+8480382,"https://assets.nhle.com/mugs/nhl/20232024/COL/8480382.png",40,"G","L",73,178,185,81,"1996-02-10","BGR","Alexandar","Georgiev","Ruse",NA,21
+8481020,"https://assets.nhle.com/mugs/nhl/20232024/COL/8481020.png",60,"G","L",76,210,193,95,"2000-03-11","FIN","Justus","Annunen","Kempele",NA,21
+8481042,"https://assets.nhle.com/mugs/nhl/20232024/COL/8481042.png",51,"R","L",70,180,178,82,"1999-10-17","USA","Nikolai","Kovalenko","Raleigh","NC",21
+8481186,"https://assets.nhle.com/mugs/nhl/20232024/COL/8481186.png",25,"R","R",72,175,183,79,"1996-08-14","USA","Logan","O'Connor","Missouri City","TX",21
+8481529,"https://assets.nhle.com/mugs/nhl/20232024/COL/8481529.png",34,"G","L",73,185,185,84,"2001-02-05","CAN","Trent","Miner","Brandon","MB",21
+8482072,"https://assets.nhle.com/mugs/nhl/20232024/COL/8482072.png",18,"D","L",68,180,173,82,"1997-05-18","USA","Jack","Ahcan","Savage","MN",21
+8482147,"https://assets.nhle.com/mugs/nhl/20232024/COL/8482147.png",93,"C","R",71,177,180,80,"2002-05-13","CAN","Jean-Luc","Foudy","Scarborough","ON",21
+8484258,"https://assets.nhle.com/mugs/nhl/20232024/COL/8484258.png",70,"D","R",71,190,180,86,"1998-07-27","USA","Sam","Malinski","Lakeville","MN",21
+8473419,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8473419.png",63,"L","L",69,176,175,80,"1988-05-11","CAN","Brad","Marchand","Halifax","NS",6
+8475745,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8475745.png",13,"C","R",75,218,191,99,"1992-03-02","USA","Charlie","Coyle","East Weymouth","MA",6
+8476854,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8476854.png",27,"D","L",76,224,193,102,"1994-01-20","SWE","Hampus","Lindholm","Helsingborg",NA,6
+8476914,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8476914.png",NA,"G","L",75,189,191,86,"1994-04-28","FIN","Joonas","Korpisalo","Pori",NA,6
+8477887,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8477887.png",38,"C","R",73,218,185,99,"1992-05-29","USA","Patrick","Brown","Bloomfield Hills","MI",6
+8477956,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8477956.png",88,"R","R",72,196,183,89,"1996-05-25","CZE","David","Pastrnak","Havirov",NA,6
+8478401,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8478401.png",18,"C","L",76,207,193,94,"1997-04-06","CZE","Pavel","Zacha","Brno",NA,6
+8478443,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8478443.png",25,"D","R",77,217,196,98,"1996-11-26","USA","Brandon","Carlo","Colorado Springs","CO",6
+8478450,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8478450.png",29,"D","L",73,195,185,88,"1997-08-24","CAN","Parker","Wotherspoon","Surrey","BC",6
+8479325,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8479325.png",73,"D","R",73,209,185,95,"1997-12-21","USA","Charlie","McAvoy","Long Beach","NY",6
+8479365,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8479365.png",11,"C","L",75,220,191,100,"1998-02-11","USA","Trent","Frederic","St. Louis","MO",6
+8479369,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8479369.png",52,"D","R",75,214,191,97,"1998-03-17","USA","Andrew","Peeke","Parkland","FL",6
+8479638,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8479638.png",55,"R","R",77,220,196,100,"1998-02-02","CAN","Justin","Brazeau","New Liskeard","ON",6
+8479968,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8479968.png",95,"C","R",70,184,178,83,"1995-02-06","USA","Vinni","Lettieri","Excelsior","MN",6
+8479987,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8479987.png",39,"C","R",75,202,191,92,"1998-07-20","CAN","Morgan","Geekie","Strathclair","MB",6
+8480022,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8480022.png",80,"G","L",73,207,185,94,"1999-06-09","CAN","Michael","DiPietro","Windsor","ON",6
+8480070,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8480070.png",14,"D","R",72,192,183,87,"1999-01-18","CAN","Ian","Mitchell","St. Albert","AB",6
+8480280,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8480280.png",1,"G","L",75,195,191,88,"1998-11-24","USA","Jeremy","Swayman","Anchorage","AK",6
+8480355,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8480355.png",NA,"C","R",76,226,193,103,"1999-03-11","USA","Mark","Kastelic","Phoenix","AZ",6
+8480828,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8480828.png",79,"D","L",74,199,188,90,"1999-09-23","USA","Michael","Callahan","Franklin","MA",6
+8481556,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8481556.png",19,"C","L",75,216,191,98,"2001-04-05","USA","John","Beecher","Elmira","NY",6
+8482479,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8482479.png",52,"C","L",72,205,183,93,"2001-06-20","USA","Trevor","Kuntar","Buffalo","NY",6
+8482511,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8482511.png",6,"D","L",77,211,196,96,"2001-01-17","USA","Mason","Lohrei","Baton Rouge","LA",6
+8483397,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8483397.png",26,"C","R",72,199,183,90,"1999-07-26","USA","Marc","McLaughlin","North Billerica","MA",6
+8483505,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8483505.png",51,"C","R",71,180,180,82,"2004-03-10","CAN","Matthew","Poitras","Ajax","ON",6
+8483548,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8483548.png",30,"G","R",76,218,193,99,"1998-06-25","USA","Brandon","Bussi","Sound Beach","NY",6
+8483567,"https://assets.nhle.com/mugs/nhl/20232024/BOS/8483567.png",42,"C","L",71,176,180,80,"2000-10-10","RUS","Georgii","Merkulov","Ryazan",NA,6
+8475169,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8475169.png",91,"L","L",74,218,188,99,"1991-08-02","CAN","Evander","Kane","Vancouver","BC",22
+8475218,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8475218.png",14,"D","L",77,225,196,102,"1990-05-24","SWE","Mattias","Ekholm","Borlange",NA,22
+8475717,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8475717.png",30,"G","L",73,206,185,93,"1992-04-15","CAN","Calvin","Pickard","Moncton","NB",22
+8475786,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8475786.png",18,"L","R",73,206,185,93,"1992-06-09","CAN","Zach","Hyman","Toronto","ON",22
+8475789,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8475789.png",36,"G","L",75,200,191,91,"1992-01-09","USA","Jack","Campbell","Port Huron","MI",22
+8476454,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8476454.png",93,"C","L",73,192,185,87,"1993-04-12","CAN","Ryan","Nugent-Hopkins","Burnaby","BC",22
+8476879,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8476879.png",5,"D","R",75,210,191,95,"1993-12-21","CAN","Cody","Ceci","Ottawa","ON",22
+8476967,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8476967.png",27,"D","L",74,192,188,87,"1994-01-06","CAN","Brett","Kulak","Edmonton","AB",22
+8477498,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8477498.png",25,"D","L",76,215,193,98,"1995-02-04","CAN","Darnell","Nurse","Hamilton","ON",22
+8477934,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8477934.png",29,"C","L",74,209,188,95,"1995-10-27","DEU","Leon","Draisaitl","Cologne",NA,22
+8478402,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8478402.png",97,"C","L",73,194,185,88,"1997-01-13","CAN","Connor","McDavid","Richmond Hill","ON",22
+8478585,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8478585.png",10,"C","R",70,185,178,84,"1986-12-29","USA","Derek","Ryan","Spokane","WA",22
+8478967,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8478967.png",26,"C","R",73,196,185,89,"1997-08-04","CAN","Lane","Pederson","Saskatoon","SK",22
+8479341,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8479341.png",85,"D","L",71,188,180,85,"1998-06-19","USA","Cam","Dineen","Toms River","NJ",22
+8479416,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8479416.png",6,"D","L",73,190,185,86,"1998-03-25","USA","Ben","Gleason","Ortonville","MI",22
+8479973,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8479973.png",74,"G","L",76,230,193,104,"1998-11-01","CAN","Stuart","Skinner","Edmonton","AB",22
+8480274,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8480274.png",76,"D","R",75,202,191,92,"1999-02-12","USA","Philip","Kemp","Greenwich","CT",22
+8480802,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8480802.png",71,"C","L",75,188,191,85,"1999-09-21","CAN","Ryan","McLeod","Mississauga","ON",22
+8480803,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8480803.png",2,"D","R",75,192,191,87,"1999-10-20","CAN","Evan","Bouchard","Oakville","ON",22
+8480885,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8480885.png",35,"G","L",73,158,185,72,"2000-07-06","CAN","Olivier","Rodrigue","Chicoutimi","QC",22
+8481534,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8481534.png",62,"C","R",76,215,193,98,"2000-09-25","CAN","Raphael","Lavoie","Chambly","QC",22
+8481598,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8481598.png",86,"D","L",76,212,193,96,"2001-06-25","SWE","Philip","Broberg","Orebro",NA,22
+8482077,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8482077.png",55,"L","L",73,206,185,93,"2001-09-23","CAN","Dylan","Holloway","Calgary","AB",22
+8482673,"https://assets.nhle.com/mugs/nhl/20232024/EDM/8482673.png",54,"C","R",72,172,183,78,"2002-10-22","CAN","Xavier","Bourgault","L'Islet","QC",22
+8473994,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8473994.png",14,"L","L",74,205,188,93,"1989-07-18","CAN","Jamie","Benn","Victoria","BC",25
+8474149,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8474149.png",63,"R","L",72,185,183,84,"1989-03-12","RUS","Evgenii","Dadonov","Chelyabinsk",NA,25
+8475755,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8475755.png",28,"D","R",77,208,196,94,"1992-03-03","CAN","Alexander","Petrovic","Edmonton","AB",25
+8475794,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8475794.png",91,"C","R",73,207,185,94,"1992-01-31","CAN","Tyler","Seguin","Brampton","ON",25
+8476889,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8476889.png",12,"C","L",75,215,191,98,"1994-01-09","CZE","Radek","Faksa","Vitkov",NA,25
+8476902,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8476902.png",23,"D","L",75,216,191,98,"1994-05-23","FIN","Esa","Lindell","Vantaa",NA,25
+8478449,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8478449.png",24,"C","L",75,212,191,96,"1996-11-17","FIN","Roope","Hintz","Nokia",NA,25
+8478975,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8478975.png",27,"L","L",77,216,196,98,"1995-06-18","CAN","Mason","Marchment","Uxbridge","ON",25
+8479979,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8479979.png",29,"G","L",78,224,198,102,"1998-12-18","USA","Jake","Oettinger","Lakeville","MN",25
+8480027,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8480027.png",21,"L","L",75,202,191,92,"1999-07-22","USA","Jason","Robertson","Arcadia","CA",25
+8480036,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8480036.png",4,"D","L",74,197,188,89,"1999-07-18","FIN","Miro","Heiskanen","Espoo",NA,25
+8480840,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8480840.png",37,"C","L",75,210,191,95,"2000-03-12","SWE","Oskar","Back","Karlstad",NA,25
+8481581,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8481581.png",55,"D","L",76,206,193,93,"2001-08-19","USA","Thomas","Harley","Syracuse","NY",25
+8481712,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8481712.png",25,"R","L",72,201,183,91,"2000-05-31","CZE","Matěj ","Blümel","Tabor",NA,25
+8482145,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8482145.png",22,"C","R",70,191,178,87,"2002-01-08","CAN","Mavrik","Bourque","Plessisville","QC",25
+8482465,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8482465.png",31,"G","L",74,206,188,93,"2001-10-06","CAN","Rémi","Poirier","Farnham","QC",25
+8482702,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8482702.png",11,"C","R",68,171,173,78,"2003-02-26","CAN","Logan","Stankoven","Kamloops","BC",25
+8482740,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8482740.png",53,"C","R",74,184,188,83,"2003-05-14","CAN","Wyatt","Johnston","Toronto","ON",25
+8483425,"https://assets.nhle.com/mugs/nhl/20232024/DAL/8483425.png",6,"D","L",78,233,198,106,"2004-05-18","CHE","Lian","Bichsel","Olten",NA,25
+8475790,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8475790.png",44,"D","R",77,222,196,101,"1992-01-07","CAN","Erik","Gudbranson","Ottawa","ON",29
+8476346,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8476346.png",13,"L","L",69,163,175,74,"1993-08-13","USA","Johnny","Gaudreau","Salem","NJ",29
+8476374,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8476374.png",7,"C","L",74,215,188,98,"1993-01-20","USA","Sean","Kuraly","Niagara Falls","NY",29
+8476432,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8476432.png",38,"C","L",74,208,188,94,"1993-06-15","CAN","Boone","Jenner","Dorchester","ON",29
+8476923,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8476923.png",78,"D","R",74,202,188,92,"1994-08-07","CAN","Damon","Severson","Melville","SK",29
+8478007,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8478007.png",90,"G","L",75,184,191,83,"1994-04-13","LVA","Elvis","Merzlikins","Riga",NA,29
+8478460,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8478460.png",8,"D","L",74,219,188,99,"1997-07-19","USA","Zach","Werenski","Grosse Pointe","MI",29
+8478500,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8478500.png",9,"D","L",73,220,185,100,"1997-01-13","RUS","Ivan","Provorov","Yaroslavl",NA,29
+8479671,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8479671.png",24,"R","R",73,222,185,101,"1997-02-11","USA","Mathieu","Olivier","Biloxi","MS",29
+8479941,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8479941.png",17,"R","R",68,188,173,85,"1993-03-15","CAN","Justin","Danforth","Oshawa","ON",29
+8480193,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8480193.png",40,"G","L",77,201,196,91,"1999-03-27","RUS","Daniil","Tarasov","Novokuznetsk",NA,29
+8480871,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8480871.png",27,"D","R",72,189,183,86,"2000-08-15","SWE","Adam","Boqvist","Falun",NA,29
+8480893,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8480893.png",86,"R","R",75,195,191,88,"2000-07-21","RUS","Kirill","Marchenko","Barnaul",NA,29
+8481716,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8481716.png",10,"L","L",77,240,196,109,"2000-09-10","RUS","Dmitri","Voronkov","Angarsk",NA,29
+8482475,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8482475.png",59,"R","L",73,204,185,93,"2001-02-01","RUS","Yegor","Chinakhov","Omsk",NA,29
+8482660,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8482660.png",91,"C","L",72,178,183,81,"2002-10-18","CAN","Kent","Johnson","Port Moody","BC",29
+8482705,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8482705.png",4,"C","L",73,199,185,90,"2003-05-16","USA","Cole","Sillinger","Columbus","OH",29
+8484149,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8484149.png",45,"C","R",69,175,175,79,"2004-10-05","USA","Gavin","Brindley","Fort Myers","FL",29
+8484166,"https://assets.nhle.com/mugs/nhl/20232024/CBJ/8484166.png",11,"C","L",74,194,188,88,"2004-10-12","CAN","Adam","Fantilli","Nobleton","ON",29
+8473986,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8473986.png",17,"L","L",73,194,185,88,"1989-09-14","CAN","Alex","Killorn","Halifax","NS",24
+8475462,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8475462.png",7,"D","R",72,208,183,94,"1990-06-05","CZE","Radko","Gudas","Prague",NA,24
+8475764,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8475764.png",4,"D","L",74,215,188,98,"1991-12-05","CAN","Cam","Fowler","Windsor","ON",24
+8476434,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8476434.png",36,"G","L",74,210,188,95,"1993-07-14","USA","John","Gibson","Pittsburgh","PA",24
+8476458,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8476458.png",16,"C","R",73,191,185,87,"1993-07-11","CAN","Ryan","Strome","Mississauga","ON",24
+8476934,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8476934.png",26,"L","L",72,187,183,85,"1994-02-02","CAN","Brock","McGinn","Fergus","ON",24
+8477527,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8477527.png",44,"L","L",77,234,196,106,"1994-02-18","CAN","Ross","Johnston","Charlottetown","PE",24
+8478366,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8478366.png",77,"R","L",71,197,180,89,"1994-03-14","USA","Frank","Vatrano","East Longmeadow","MA",24
+8478873,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8478873.png",19,"R","R",72,185,183,84,"1997-09-10","USA","Troy","Terry","Denver","CO",24
+8480806,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8480806.png",21,"C","L",72,193,183,88,"1999-11-06","SWE","Isac","Lundestrom","Gallivare",NA,24
+8480843,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8480843.png",1,"G","L",74,188,188,85,"2000-06-22","CZE","Lukas","Dostal","Brno",NA,24
+8481533,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8481533.png",11,"C","L",72,185,183,84,"2001-03-20","USA","Trevor","Zegras","Bedford","NY",24
+8481605,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8481605.png",60,"D","L",74,205,188,93,"2001-01-09","USA","Jackson","LaCombe","Eden Prairie","MN",24
+8482118,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8482118.png",64,"R","R",74,205,188,93,"2001-12-26","USA","Sam","Colangelo","Stoneham","MA",24
+8482745,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8482745.png",23,"C","L",72,213,183,97,"2003-01-30","CHE","Mason","McTavish","Zurich",NA,24
+8482803,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8482803.png",51,"D","L",69,182,175,83,"2003-09-10","CAN","Olen","Zellweger","Calgary","AB",24
+8483445,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8483445.png",61,"L","L",74,189,188,86,"2004-01-19","SWE","Cutter","Gauthier","Skelleftea",NA,24
+8483490,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8483490.png",34,"D","L",73,195,185,88,"2003-11-25","RUS","Pavel","Mintyukov","Moscow",NA,24
+8484153,"https://assets.nhle.com/mugs/nhl/20232024/ANA/8484153.png",91,"C","L",75,194,191,88,"2004-12-26","SWE","Leo","Carlsson","Karlstad",NA,24
+8471709,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8471709.png",44,"D","L",73,205,185,93,"1987-03-30","CAN","Marc-Edouard","Vlasic","Montréal","QC",28
+8474053,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8474053.png",39,"C","L",73,206,185,93,"1989-03-28","CAN","Logan","Couture","Guelph","ON",28
+8475798,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8475798.png",64,"C","L",70,185,178,84,"1992-02-26","FIN","Mikael","Granlund","Oulu",NA,28
+8476624,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8476624.png",23,"R","L",74,209,188,95,"1993-02-26","CAN","Barclay","Goodrow","Toronto","ON",28
+8476988,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8476988.png",5,"D","R",73,203,185,92,"1994-05-25","CAN","Matt","Benning","Edmonton","AB",28
+8477473,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8477473.png",90,"R","R",76,214,193,97,"1995-07-01","USA","Justin","Bailey","Buffalo","NY",28
+8477970,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8477970.png",41,"G","L",74,184,188,83,"1996-01-09","CZE","Vitek","Vanecek","Havlickuv Brod",NA,28
+8478013,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8478013.png",NA,"D","L",73,218,185,99,"1996-02-20","CAN","Jake","Walman","Toronto","ON",28
+8478406,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8478406.png",29,"G","L",76,225,193,102,"1996-12-09","CAN","Mackenzie","Blackwood","Thunder Bay","ON",28
+8479316,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8479316.png",11,"C","R",72,197,183,89,"1997-12-04","USA","Luke","Kunin","Chesterfield","MO",28
+8479336,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8479336.png",NA,"R","L",72,200,183,91,"1997-12-01","SWE","Carl","Grundstrom","Umea",NA,28
+8479379,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8479379.png",54,"R","L",74,214,188,97,"1998-02-27","CAN","Givani","Smith","Toronto","ON",28
+8479983,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8479983.png",38,"D","L",72,209,183,95,"1998-09-17","CAN","Mario","Ferraro","Toronto","ON",28
+8480011,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8480011.png",10,"C","L",76,232,193,105,"1999-05-05","RUS","Klim","Kostin","Penza",NA,28
+8480172,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8480172.png",84,"D","R",75,204,191,93,"1990-07-29","CZE","Jan","Rutta","Pisek",NA,28
+8480188,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8480188.png",20,"L","R",71,220,180,100,"1999-08-25","SWE","Fabian","Zetterlund","Karlstad",NA,28
+8480834,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8480834.png",6,"D","R",74,193,188,88,"2000-05-23","USA","Ty","Emberson","Eau Claire","WI",28
+8480848,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8480848.png",NA,"C","R",74,190,188,86,"2000-07-21","CAN","Ty","Dellandrea","Port Perry","ON",28
+8481477,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8481477.png",7,"C","L",75,209,191,95,"1995-05-03","DEU","Nico","Sturm","Augsburg",NA,28
+8481567,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8481567.png",3,"D","L",74,190,188,86,"2001-03-12","USA","Henry","Thrun","Southborough","MA",28
+8482133,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8482133.png",17,"C","L",70,175,178,79,"2002-01-03","USA","Thomas","Bordeleau","Houston","TX",28
+8482667,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8482667.png",72,"L","L",71,181,180,82,"2002-10-12","SWE","William","Eklund","Stockholm",NA,28
+8484911,"https://assets.nhle.com/mugs/nhl/20232024/SJS/8484911.png",51,"R","R",73,194,185,88,"2002-09-21","USA","Collin","Graf","Lincoln","MA",28
+8474150,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8474150.png",11,"C","L",72,206,183,93,"1989-03-17","SWE","Mikael","Backlund","Vasteras",NA,20
+8475172,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8475172.png",91,"C","L",72,185,183,84,"1990-10-06","CAN","Nazem","Kadri","London","ON",20
+8476399,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8476399.png",20,"C","L",71,199,180,90,"1991-11-28","USA","Blake","Coleman","Plano","TX",20
+8476456,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8476456.png",10,"C","L",73,200,185,91,"1993-06-04","CAN","Jonathan","Huberdeau","Saint-Jerome","QC",20
+8477346,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8477346.png",52,"D","R",72,206,183,93,"1994-01-07","CAN","MacKenzie","Weegar","Ottawa","ON",20
+8477810,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8477810.png",44,"D","L",71,186,180,84,"1991-06-08","CAN","Joel","Hanley","Keswick","ON",20
+8478211,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8478211.png",15,"L","L",72,193,183,88,"1995-11-24","CAN","Dryden","Hunt","Cranbrook","BC",20
+8478397,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8478397.png",4,"D","R",73,202,185,92,"1996-10-27","SWE","Rasmus","Andersson","Malmo",NA,20
+8478435,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8478435.png",80,"G","L",77,209,196,95,"1997-08-20","CZE","Dan","Vladar","Prague",NA,20
+8479291,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8479291.png",21,"C","L",74,190,188,86,"1993-05-21","USA","Kevin","Rooney","Canton","MA",20
+8480860,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8480860.png",7,"D","L",78,230,198,104,"2000-06-27","CAN","Kevin","Bahl","New Westminster","BC",20
+8481028,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8481028.png",76,"C","L",74,173,188,78,"1999-11-19","SVK","Martin","Pospisil","Zvolen",NA,20
+8481068,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8481068.png",17,"C","L",74,196,188,89,"1998-06-06","BLR","Yegor","Sharangovich","Minsk",NA,20
+8481167,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8481167.png",94,"D","R",74,202,188,92,"1999-08-23","CAN","Brayden","Pachal","Estevan","SK",20
+8481537,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8481537.png",28,"D","L",73,195,185,88,"2000-12-04","RUS","Nikita","Okhotiuk","Chelyabinsk",NA,20
+8482074,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8482074.png",47,"C","L",72,178,183,81,"2001-09-25","CAN","Connor","Zary","Saskatoon","SK",20
+8482470,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8482470.png",98,"D","L",75,208,191,94,"2000-07-20","BLR","Ilya","Solovyov","Mogilev",NA,20
+8482624,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8482624.png",62,"D","R",76,207,193,94,"1997-07-11","RUS","Daniil","Miromanov","Moscow",NA,20
+8482652,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8482652.png",71,"R","R",74,210,188,95,"1997-11-23","USA","Walker","Duehr","Sioux Falls","SD",20
+8483808,"https://assets.nhle.com/mugs/nhl/20232024/CGY/8483808.png",96,"L","R",71,194,180,88,"1996-02-04","RUS","Andrei","Kuzmenko","Yakutsk",NA,20
+8475683,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8475683.png",72,"G","L",74,188,188,85,"1988-09-20","RUS","Sergei","Bobrovsky","Novokuznetsk",NA,13
+8477409,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8477409.png",23,"C","L",74,180,188,82,"1995-08-14","CAN","Carter","Verhaeghe","Toronto","ON",13
+8477493,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8477493.png",16,"C","L",75,215,191,98,"1995-09-02","FIN","Aleksander","Barkov","Tampere",NA,13
+8477932,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8477932.png",5,"D","R",76,215,193,98,"1996-02-07","CAN","Aaron","Ekblad","Windsor","ON",13
+8477933,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8477933.png",13,"C","R",74,193,188,88,"1995-11-06","CAN","Sam","Reinhart","West Vancouver","BC",13
+8477935,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8477935.png",9,"C","L",73,195,185,88,"1996-06-20","CAN","Sam","Bennett","Holland Landing","ON",13
+8478055,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8478055.png",42,"D","L",72,195,183,88,"1996-06-12","SWE","Gustav","Forsling","Linkoping",NA,13
+8478542,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8478542.png",17,"C","R",71,175,180,79,"1993-07-28","CAN","Evan","Rodrigues","Toronto","ON",13
+8478859,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8478859.png",77,"D","L",77,206,196,93,"1996-04-27","FIN","Niko","Mikkola","Kiiminki",NA,13
+8479314,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8479314.png",19,"L","L",74,206,188,93,"1997-12-11","USA","Matthew","Tkachuk","Scottsdale","AZ",13
+8479367,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8479367.png",67,"R","R",72,178,183,81,"1998-06-20","USA","William","Lockwood","Royal Oak","MI",13
+8479981,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8479981.png",12,"L","L",74,209,188,95,"1998-10-12","CAN","Jonah","Gadjovich","Whitby","ON",13
+8480185,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8480185.png",27,"C","L",75,190,191,86,"1998-09-02","FIN","Eetu","Luostarinen","Siilinjarvi",NA,13
+8480825,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8480825.png",36,"R","R",76,217,193,98,"2000-01-03","USA","Patrick","Giles","Chevy Chase","MD",13
+8481519,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8481519.png",30,"G","L",75,192,191,87,"2001-04-19","USA","Spencer","Knight","Darien","CT",13
+8481600,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8481600.png",2,"D","L",73,200,185,91,"2001-04-06","SWE","Tobias","Bjornfot","Upplands Vasby",NA,13
+8482088,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8482088.png",24,"R","R",71,180,180,82,"2002-03-24","CAN","Justin","Sourdif","Richmond","BC",13
+8482107,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8482107.png",44,"D","R",69,185,175,84,"2002-01-05","CAN","Mike","Benning","Edmonton","AB",13
+8482113,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8482113.png",15,"C","L",73,190,185,86,"2001-10-03","FIN","Anton","Lundell","Espoo",NA,13
+8482641,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8482641.png",3,"D","L",72,181,183,82,"1998-04-14","USA","Matt","Kiersted","Elk River","MN",13
+8482713,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8482713.png",25,"R","R",71,183,180,83,"2002-11-15","USA","Mackie","Samoskevich","Newtown","CT",13
+8484304,"https://assets.nhle.com/mugs/nhl/20232024/FLA/8484304.png",26,"D","L",72,196,183,89,"1996-08-01","LVA","Uvis","Balinskis","Ventspils",NA,13
+8475233,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8475233.png",58,"D","R",73,238,185,108,"1990-10-22","CAN","David","Savard","St-Hyacinthe","QC",8
+8475848,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8475848.png",11,"R","R",69,183,175,83,"1992-05-06","CAN","Brendan","Gallagher","Edmonton","AB",8
+8476469,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8476469.png",40,"R","R",75,216,191,98,"1993-05-31","FIN","Joel","Armia","Pori",NA,8
+8476875,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8476875.png",8,"D","L",74,196,188,89,"1994-02-27","CAN","Mike","Matheson","Pointe-Claire","QC",8
+8476981,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8476981.png",17,"R","R",75,224,191,102,"1994-05-07","CAN","Josh","Anderson","Burlington","ON",8
+8477989,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8477989.png",28,"C","L",73,192,185,87,"1996-02-02","USA","Christian","Dvorak","Palos","IL",8
+8478133,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8478133.png",71,"C","R",73,187,185,85,"1996-06-02","CAN","Jake","Evans","Toronto","ON",8
+8478470,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8478470.png",35,"G","L",75,222,191,101,"1996-10-30","CAN","Sam","Montembeault","Becancour","QC",8
+8479543,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8479543.png",55,"L","L",73,217,185,98,"1998-03-13","CAN","Michael","Pezzetta","Toronto","ON",8
+8480018,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8480018.png",14,"C","R",71,212,180,96,"1999-08-10","CAN","Nick","Suzuki","London","ON",8
+8480051,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8480051.png",30,"G","L",75,207,191,94,"1999-08-11","USA","Cayden","Primeau","Farmington Hills","MI",8
+8480887,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8480887.png",54,"D","L",71,189,180,86,"2000-07-07","USA","Jordan","Harris","Haverhill","MA",8
+8481093,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8481093.png",49,"L","L",69,184,175,83,"1999-01-06","CAN","Rafael","Harvey-Pinard","Saguenay","QC",8
+8481523,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8481523.png",77,"C","R",76,217,193,98,"2001-01-21","CAN","Kirby","Dach","Fort Saskatchewan","AB",8
+8481540,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8481540.png",22,"R","R",68,175,173,79,"2001-01-02","USA","Cole","Caufield","Mosinee","WI",8
+8481618,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8481618.png",15,"C","L",71,199,180,90,"2001-01-28","CAN","Alex","Newhook","St. John's","NL",8
+8482087,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8482087.png",21,"D","L",75,201,191,91,"2002-01-18","CAN","Kaiden","Guhle","Edmonton","AB",8
+8482964,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8482964.png",72,"D","L",76,240,193,109,"2001-01-30","CAN","Arber","Xhekaj","Hamilton","ON",8
+8483457,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8483457.png",48,"D","L",69,158,175,72,"2004-02-14","USA","Lane","Hutson","Holland","MI",8
+8483515,"https://assets.nhle.com/mugs/nhl/20232024/MTL/8483515.png",20,"L","L",75,230,191,104,"2004-03-30","SVK","Juraj","Slafkovský","Kosice",NA,8
+8471817,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8471817.png",75,"R","R",74,226,188,103,"1987-01-20","CAN","Ryan","Reaves","Winnipeg","MB",10
+8475166,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8475166.png",91,"C","L",73,211,185,96,"1990-09-20","CAN","John","Tavares","Mississauga","ON",10
+8475714,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8475714.png",19,"C","R",72,190,183,86,"1991-09-25","SWE","Calle","Jarnkrok","Gavle",NA,10
+8476853,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8476853.png",44,"D","L",73,225,185,102,"1994-03-09","CAN","Morgan","Rielly","Vancouver","BC",10
+8476931,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8476931.png",22,"D","L",73,211,185,96,"1993-10-12","USA","Jake","McCabe","Eau Claire","WI",10
+8477939,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8477939.png",88,"R","R",72,202,183,92,"1996-05-01","CAN","William","Nylander","Calgary","AB",10
+8478483,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8478483.png",16,"R","R",72,180,183,82,"1997-05-05","CAN","Mitch","Marner","Markham","ON",10
+8479318,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8479318.png",34,"C","L",75,215,191,98,"1997-09-17","USA","Auston","Matthews","San Ramon","CA",10
+8479361,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8479361.png",60,"G","L",75,202,191,92,"1998-07-12","USA","Joseph","Woll","Dardenne Prairie","MO",10
+8479982,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8479982.png",25,"D","R",74,206,188,93,"1998-09-18","CAN","Conor","Timmins","St. Catharines","ON",10
+8480043,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8480043.png",37,"D","R",73,190,185,86,"1999-04-30","SWE","Timothy","Liljegren","Kristianstad",NA,10
+8480144,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8480144.png",64,"C","L",74,190,188,86,"1995-01-12","CZE","David","Kampf","Chomutov",NA,10
+8480980,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8480980.png",24,"C","L",70,183,178,83,"1999-06-26","CAN","Connor","Dewar","The Pas","MB",10
+8480995,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8480995.png",29,"R","L",72,188,183,85,"1999-03-09","SWE","Pontus","Holmberg","Vasteras",NA,10
+8481122,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8481122.png",2,"D","L",76,205,193,93,"1998-09-19","CAN","Simon","Benoit","Laval","QC",10
+8481570,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8481570.png",52,"D","L",79,210,201,95,"2001-01-05","USA","Cade","Webber","Worcester","MA",10
+8481582,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8481582.png",89,"L","L",69,178,175,81,"2001-09-11","USA","Nicholas","Robertson","Pasadena","CA",10
+8481614,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8481614.png",84,"D","L",72,200,183,91,"2001-01-18","FIN","Mikko","Kokkonen","Mikkeli",NA,10
+8481720,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8481720.png",26,"C","L",71,180,180,82,"1999-06-04","USA","Nick","Abruzzese","Slate Hill","NY",10
+8482158,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8482158.png",47,"D","R",72,179,183,81,"2002-03-25","FIN","Topi","Niemela","Oulu",NA,10
+8482259,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8482259.png",74,"C","L",74,210,188,95,"1996-06-15","CAN","Bobby","McMann","Wainwright","AB",10
+8482634,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8482634.png",46,"C","L",72,196,183,89,"1999-12-10","USA","Alex","Steeves","Saint Paul","MN",10
+8482720,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8482720.png",23,"L","L",75,217,191,98,"2002-10-17","USA","Matthew","Knies","Phoenix","AZ",10
+8483546,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8483546.png",83,"D","L",74,205,188,93,"1998-03-16","CAN","Marshall","Rifai","Beaconsfield","QC",10
+8483710,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8483710.png",41,"G","L",79,222,201,101,"2001-08-19","SWE","Dennis","Hildeby","Jarfalla",NA,10
+8483733,"https://assets.nhle.com/mugs/nhl/20232024/TOR/8483733.png",71,"R","L",74,195,188,88,"2003-05-02","RUS","Nikita","Grebenkin","Serov",NA,10
+8474593,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8474593.png",25,"G","L",78,207,198,94,"1990-01-31","SWE","Jacob","Markstrom","Gavle",NA,1
+8474596,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8474596.png",34,"G","L",74,197,188,89,"1990-08-07","CAN","Jake","Allen","Fredericton","NB",1
+8475287,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8475287.png",56,"L","L",71,191,180,87,"1991-03-23","FIN","Erik","Haula","Pori",NA,1
+8476292,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8476292.png",18,"L","L",72,194,183,88,"1991-03-28","CZE","Ondrej","Palat","Frydek-Mistek",NA,1
+8476462,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8476462.png",7,"D","R",78,230,198,104,"1993-06-17","CAN","Dougie","Hamilton","Toronto","ON",1
+8477073,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8477073.png",23,"L","L",77,233,196,106,"1994-03-25","CAN","Kurtis","MacDermid","Quebec City","QC",1
+8477508,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8477508.png",42,"C","R",72,203,183,92,"1995-02-02","CAN","Curtis","Lazar","Salmon Arm","BC",1
+8478399,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8478399.png",71,"D","L",74,218,188,99,"1997-05-06","CHE","Jonas","Siegenthaler","Zurich",NA,1
+8478414,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8478414.png",28,"R","L",73,220,185,100,"1996-10-08","CHE","Timo","Meier","Herisau",NA,1
+8479407,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8479407.png",63,"L","L",70,175,178,79,"1998-07-30","SWE","Jesper","Bratt","Stockholm",NA,1
+8479414,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8479414.png",14,"R","R",76,205,193,93,"1997-12-06","CAN","Nathan","Bastian","Kitchener","ON",1
+8480002,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8480002.png",13,"C","L",73,175,185,79,"1999-01-04","CHE","Nico","Hischier","Brig",NA,1
+8480084,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8480084.png",57,"D","R",74,185,188,84,"1994-11-21","USA","Nick","DeSimone","East Amherst","NY",1
+8480192,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8480192.png",NA,"D","R",77,223,196,101,"1997-07-12","CAN","Johnathan","Kovacevic","Hamilton","ON",1
+8481032,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8481032.png",NA,"C","L",74,213,188,97,"1999-11-16","USA","Paul","Cotter","Canton","MI",1
+8481518,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8481518.png",29,"L","L",75,196,191,89,"2000-11-29","USA","Nolan","Foote","Denver","CO",1
+8481559,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8481559.png",86,"C","L",71,175,180,79,"2001-05-14","USA","Jack","Hughes","Orlando","FL",1
+8482110,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8482110.png",91,"C","R",72,180,183,82,"2001-10-27","CAN","Dawson","Mercer","Carbonear","NL",1
+8482684,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8482684.png",43,"D","L",74,198,188,90,"2003-09-09","USA","Luke","Hughes","Manchester","NH",1
+8483495,"https://assets.nhle.com/mugs/nhl/20232024/NJD/8483495.png",17,"D","R",73,190,185,86,"2004-02-15","SVK","Simon","Nemec","Liptovský Mikuláš",NA,1
+8475799,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8475799.png",62,"R","L",74,218,188,99,"1992-09-08","CHE","Nino","Niederreiter","Chur",NA,52
+8476331,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8476331.png",2,"D","R",73,194,185,88,"1993-05-01","CAN","Dylan","DeMelo","London","ON",52
+8476392,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8476392.png",17,"C","L",77,210,196,95,"1993-03-29","USA","Adam","Lowry","St. Louis","MO",52
+8476460,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8476460.png",55,"C","R",75,207,191,94,"1993-03-15","CAN","Mark","Scheifele","Kitchener","ON",52
+8476480,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8476480.png",7,"C","L",72,181,183,82,"1992-11-22","RUS","Vladislav","Namestnikov","Zhukovskiy",NA,52
+8476945,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8476945.png",37,"G","L",76,207,193,94,"1993-05-19","USA","Connor","Hellebuyck","Commerce","MI",52
+8477220,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8477220.png",88,"D","L",72,192,183,87,"1991-07-16","USA","Nate","Schmidt","St. Cloud","MN",52
+8477504,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8477504.png",44,"D","L",72,195,183,88,"1995-03-28","CAN","Josh","Morrissey","Calgary","AB",52
+8477940,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8477940.png",27,"L","L",72,172,183,78,"1996-02-14","DNK","Nikolaj","Ehlers","Aalborg",NA,52
+8478398,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8478398.png",81,"L","L",73,183,185,83,"1996-12-09","USA","Kyle","Connor","Shelby Township","MI",52
+8478891,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8478891.png",22,"C","R",74,194,188,88,"1996-01-15","USA","Mason","Appleton","Green Bay","WI",52
+8479378,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8479378.png",64,"D","L",79,231,201,105,"1998-05-26","CAN","Logan","Stanley","Waterloo","ON",52
+8479536,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8479536.png",71,"L","L",73,189,185,86,"1998-02-10","SWE","Axel","Jonsson-Fjallby","Stockholm",NA,52
+8480014,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8480014.png",13,"C","R",75,216,191,98,"1999-08-16","CAN","Gabriel","Vilardi","Kingston","ON",52
+8480049,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8480049.png",54,"D","L",76,216,193,98,"1999-01-24","USA","Dylan","Samberg","Saginaw","MN",52
+8480113,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8480113.png",9,"L","L",72,201,183,91,"1993-12-21","USA","Alex","Iafallo","Eden","NY",52
+8480145,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8480145.png",4,"D","R",72,190,183,86,"1995-07-29","USA","Neal","Pionk","Omaha","NE",52
+8480289,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8480289.png",36,"C","L",76,220,193,100,"1998-12-02","CAN","Morgan","Barron","Halifax","NS",52
+8480845,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8480845.png",15,"C","R",74,201,188,91,"2000-03-15","FIN","Rasmus","Kupari","Kotka",NA,52
+8481019,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8481019.png",19,"C","L",74,196,188,89,"2000-04-11","SWE","David","Gustafsson","Tingsryd",NA,52
+8482149,"https://assets.nhle.com/mugs/nhl/20232024/WPG/8482149.png",91,"C","L",71,185,180,84,"2002-01-01","CAN","Cole","Perfetti","Whitby","ON",52
+8474586,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8474586.png",7,"R","R",71,190,180,86,"1990-05-15","CAN","Jordan","Eberle","Regina","SK",55
+8475208,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8475208.png",8,"D","L",76,207,193,94,"1991-09-06","USA","Brian","Dumoulin","Biddeford","ME",55
+8475768,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8475768.png",17,"C","L",70,185,178,84,"1992-06-25","CAN","Jaden","Schwartz","Wilcox","SK",55
+8475831,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8475831.png",31,"G","L",73,188,185,85,"1991-11-25","DEU","Philipp","Grubauer","Rosenheim",NA,55
+8476457,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8476457.png",6,"D","R",75,209,191,95,"1992-11-12","SWE","Adam","Larsson","Skelleftea",NA,55
+8476467,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8476467.png",24,"D","L",79,257,201,117,"1992-12-21","CAN","Jamie","Oleksiak","Toronto","ON",55
+8476826,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8476826.png",37,"C","L",69,174,175,79,"1991-12-15","CAN","Yanni","Gourde","Saint-Narcisse","QC",55
+8477416,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8477416.png",22,"R","R",72,175,183,79,"1995-04-10","DNK","Oliver","Bjorkstrand","Herning",NA,55
+8477444,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8477444.png",95,"L","L",75,209,191,95,"1995-02-09","AUT","Andre","Burakovsky","Klagenfurt",NA,55
+8477955,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8477955.png",19,"L","L",73,191,185,87,"1996-05-31","CAN","Jared","McCann","Stratford","ON",55
+8478407,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8478407.png",29,"D","L",72,200,183,91,"1996-10-29","CAN","Vince","Dunn","Mississauga","ON",55
+8478840,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8478840.png",3,"D","R",75,204,191,93,"1996-12-19","USA","Will","Borgen","Moorhead","MN",55
+8478916,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8478916.png",35,"G","L",74,201,188,91,"1996-08-19","USA","Joey","Daccord","Boston","MA",55
+8479293,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8479293.png",13,"L","L",72,189,183,86,"1991-12-31","CAN","Brandon","Tanev","Toronto","ON",55
+8480009,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8480009.png",20,"R","L",70,191,178,87,"1999-04-22","FIN","Eeli","Tolvanen","Vihti",NA,55
+8481789,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8481789.png",52,"L","L",71,202,180,92,"2001-04-30","CAN","Tye","Kartye","Kingston","ON",55
+8482665,"https://assets.nhle.com/mugs/nhl/20232024/SEA/8482665.png",10,"C","L",74,178,188,81,"2002-11-05","USA","Matty","Beniers","Hingham","MA",55
+8477365,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8477365.png",75,"D","R",71,192,180,87,"1995-04-28","USA","Connor","Clifton","Matawan","NJ",7
+8477949,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8477949.png",89,"R","R",76,215,193,98,"1996-05-10","USA","Alex","Tuch","Syracuse","NY",7
+8478413,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8478413.png",12,"L","L",78,231,198,105,"1997-02-16","USA","Jordan","Greenway","Canton","NY",7
+8479348,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8479348.png",38,"D","L",72,190,183,86,"1998-06-05","CAN","Kale","Clague","Regina","SK",7
+8479359,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8479359.png",NA,"L","L",75,200,191,91,"1998-02-04","CAN","Beck","Malenstyn","Delta","BC",7
+8479420,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8479420.png",72,"C","R",78,220,198,100,"1997-10-30","USA","Tage","Thompson","Phoenix","AZ",7
+8480035,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8480035.png",10,"D","R",72,200,183,91,"1999-06-17","FIN","Henri","Jokiharju","Oulu",NA,7
+8480045,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8480045.png",1,"G","L",77,217,196,98,"1999-03-09","FIN","Ukko-Pekka","Luukkonen","Espoo",NA,7
+8480807,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8480807.png",23,"D","L",76,224,193,102,"2000-03-14","USA","Mattias","Samuelsson","Philadelphia","PA",7
+8480839,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8480839.png",26,"D","L",75,204,191,93,"2000-04-13","SWE","Rasmus","Dahlin","Lidkoping",NA,7
+8481522,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8481522.png",19,"C","L",72,186,183,84,"2001-01-26","CAN","Peyton","Krebs","Calgary","AB",7
+8481524,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8481524.png",4,"D","L",73,190,185,86,"2001-06-13","CAN","Bowen","Byram","Cranbrook","BC",7
+8481528,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8481528.png",24,"C","R",75,195,191,88,"2001-02-09","CAN","Dylan","Cozens","Whitehorse","YT",7
+8482097,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8482097.png",22,"R","R",73,185,185,84,"2001-09-19","CAN","Jack","Quinn","Ottawa","ON",7
+8482175,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8482175.png",77,"R","L",72,189,183,86,"2002-01-14","DEU","JJ","Peterka","Munich",NA,7
+8482671,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8482671.png",25,"D","L",78,221,198,100,"2002-11-22","CAN","Owen","Power","Mississauga","ON",7
+8484145,"https://assets.nhle.com/mugs/nhl/20232024/BUF/8484145.png",9,"L","L",70,170,178,77,"2005-05-12","CAN","Zach","Benson","Chilliwack","BC",7
+8471734,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8471734.png",32,"G","L",73,215,185,98,"1986-01-21","USA","Jonathan","Quick","Milford","CT",3
+8475184,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8475184.png",20,"L","L",75,233,191,106,"1991-04-30","USA","Chris","Kreider","Boxford","MA",3
+8475839,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8475839.png",70,"G","R",75,209,191,95,"1992-03-06","CAN","Louis","Domingue","St-Hyacinthe","QC",3
+8475968,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8475968.png",60,"R","R",72,195,183,88,"1991-08-31","CAN","Alex","Belzile","St-Eloi","QC",3
+8476389,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8476389.png",16,"C","R",71,187,180,85,"1993-07-11","USA","Vincent","Trocheck","Pittsburgh","PA",3
+8476459,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8476459.png",93,"C","R",74,201,188,91,"1993-04-18","SWE","Mika","Zibanejad","Stockholm",NA,3
+8476885,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8476885.png",8,"D","R",75,209,191,95,"1994-02-26","USA","Jacob","Trouba","Rochester","MI",3
+8476918,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8476918.png",26,"L","L",74,200,188,91,"1993-05-26","USA","Jimmy","Vesey","Boston","MA",3
+8477320,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8477320.png",25,"L","L",73,196,185,89,"1995-03-14","SWE","Anton","Blidh","Molnlycke",NA,3
+8477380,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8477380.png",22,"C","R",72,204,183,93,"1993-06-19","USA","Jonny","Brodzinski","Ham Lake","MN",3
+8477433,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8477433.png",5,"D","L",78,230,198,104,"1995-01-12","CAN","Ben","Harpur","Hamilton","ON",3
+8478048,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8478048.png",31,"G","L",73,197,185,89,"1995-12-30","RUS","Igor","Shesterkin","Moscow",NA,3
+8478550,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8478550.png",10,"L","R",72,175,183,79,"1991-10-30","RUS","Artemi","Panarin","Korkino",NA,3
+8479323,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8479323.png",23,"D","R",71,185,180,84,"1998-02-17","USA","Adam","Fox","Jericho","NY",3
+8479324,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8479324.png",55,"D","L",72,193,183,88,"1998-02-11","USA","Ryan","Lindgren","Burnsville","MN",3
+8479991,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8479991.png",15,"C","L",71,198,180,90,"1999-03-10","USA","Jake","Leschyshyn","Raleigh","NC",3
+8480078,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8480078.png",72,"C","L",74,208,188,94,"1999-09-05","CZE","Filip","Chytil","Kromeriz",NA,3
+8480817,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8480817.png",79,"D","L",77,210,196,95,"2000-01-21","USA","K'Andre","Miller","St. Paul","MN",3
+8481525,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8481525.png",44,"D","L",76,209,193,95,"2001-03-09","CAN","Matthew","Robertson","Edmonton","AB",3
+8481554,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8481554.png",24,"R","L",74,205,188,93,"2001-02-13","FIN","Kaapo","Kakko","Turku",NA,3
+8481708,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8481708.png",6,"D","L",70,176,178,80,"2000-10-18","USA","Zac","Jones","Richmond","VA",3
+8481726,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8481726.png",84,"C","L",79,234,201,106,"2000-10-12","SWE","Adam","Edstrom","Karlstad",NA,3
+8482067,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8482067.png",14,"D","L",75,204,191,93,"1996-09-12","USA","Connor","Mackey","Tower Lakes","IL",3
+8482073,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8482073.png",4,"D","R",75,211,191,96,"2001-09-20","CAN","Braden","Schneider","Prince Albert","SK",3
+8482109,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8482109.png",13,"L","L",73,194,185,88,"2001-10-11","CAN","Alexis","Lafrenière","St-Eustache","QC",3
+8482132,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8482132.png",65,"L","L",69,174,175,79,"2002-09-09","USA","Brett","Berard","Providence","RI",3
+8482157,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8482157.png",50,"L","L",75,210,191,95,"2002-02-05","CAN","Will","Cuylle","Toronto","ON",3
+8482193,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8482193.png",33,"G","L",75,177,191,80,"2002-06-07","CAN","Dylan","Garand","Victoria","BC",3
+8482460,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8482460.png",73,"C","R",79,241,201,109,"2002-06-29","CAN","Matt","Rempe","Calgary","AB",3
+8482747,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8482747.png",78,"L","L",72,186,183,84,"2003-01-05","CAN","Brennan","Othmann","Pickering","ON",3
+8483407,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8483407.png",58,"D","L",76,218,193,99,"1999-06-02","CAN","Brandon","Scanlin","Hamilton","ON",3
+8483669,"https://assets.nhle.com/mugs/nhl/20232024/NYR/8483669.png",38,"L","L",71,192,180,87,"2004-09-07","SVK","Adam","Sykora","Piestany",NA,3
+8473507,"https://assets.nhle.com/mugs/nhl/20232024/DET/8473507.png",46,"D","R",75,208,191,94,"1987-12-09","USA","Jeff","Petry","Ann Arbor","MI",17
+8474141,"https://assets.nhle.com/mugs/nhl/20232024/DET/8474141.png",88,"R","L",70,177,178,80,"1988-11-19","USA","Patrick","Kane","Buffalo","NY",17
+8475279,"https://assets.nhle.com/mugs/nhl/20232024/DET/8475279.png",8,"D","L",75,224,191,102,"1991-05-09","CAN","Ben","Chiarot","Hamilton","ON",17
+8475718,"https://assets.nhle.com/mugs/nhl/20232024/DET/8475718.png",3,"D","R",76,194,193,88,"1992-01-30","USA","Justin","Holl","Tonka Bay","MN",17
+8476874,"https://assets.nhle.com/mugs/nhl/20232024/DET/8476874.png",2,"D","L",74,207,188,94,"1994-08-22","FIN","Olli","Määttä","Jyväskylä",NA,17
+8477429,"https://assets.nhle.com/mugs/nhl/20232024/DET/8477429.png",18,"C","L",73,203,185,92,"1994-07-08","USA","Andrew","Copp","Ann Arbor","MI",17
+8477456,"https://assets.nhle.com/mugs/nhl/20232024/DET/8477456.png",37,"L","R",72,190,183,86,"1995-04-08","USA","J.T.","Compher","Northbrook","IL",17
+8477946,"https://assets.nhle.com/mugs/nhl/20232024/DET/8477946.png",71,"C","L",73,199,185,90,"1996-07-30","USA","Dylan","Larkin","Waterford","MI",17
+8477952,"https://assets.nhle.com/mugs/nhl/20232024/DET/8477952.png",14,"C","L",73,185,185,84,"1996-01-22","CAN","Robby","Fabbri","Mississauga","ON",17
+8478024,"https://assets.nhle.com/mugs/nhl/20232024/DET/8478024.png",35,"G","L",75,205,191,93,"1995-02-06","FIN","Ville","Husso","Helsinki",NA,17
+8479312,"https://assets.nhle.com/mugs/nhl/20232024/DET/8479312.png",34,"G","L",73,196,185,89,"1992-12-09","USA","Alex","Lyon","Baudette","MN",17
+8479337,"https://assets.nhle.com/mugs/nhl/20232024/DET/8479337.png",93,"R","R",68,180,173,82,"1997-12-18","USA","Alex","DeBrincat","Farmington Hills","MI",17
+8479992,"https://assets.nhle.com/mugs/nhl/20232024/DET/8479992.png",27,"C","L",78,220,198,100,"1999-04-17","CAN","Michael","Rasmussen","Surrey","BC",17
+8480813,"https://assets.nhle.com/mugs/nhl/20232024/DET/8480813.png",90,"C","L",73,201,185,91,"2000-01-13","CAN","Joe","Veleno","Montréal","QC",17
+8481542,"https://assets.nhle.com/mugs/nhl/20232024/DET/8481542.png",53,"D","R",75,205,191,93,"2001-04-06","DEU","Moritz","Seider","Zell",NA,17
+8482078,"https://assets.nhle.com/mugs/nhl/20232024/DET/8482078.png",23,"L","R",71,188,180,85,"2002-03-28","SWE","Lucas","Raymond","Gothenburg",NA,17
+8482762,"https://assets.nhle.com/mugs/nhl/20232024/DET/8482762.png",77,"D","L",78,209,198,95,"2003-02-05","SWE","Simon","Edvinsson","Kungsbacka",NA,17
+8470613,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8470613.png",8,"D","R",77,230,196,104,"1985-03-09","CAN","Brent","Burns","Barrie","ON",12
+8473533,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8473533.png",11,"C","L",76,220,193,100,"1988-09-10","CAN","Jordan","Staal","Thunder Bay","ON",12
+8475200,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8475200.png",7,"D","L",71,214,180,97,"1991-07-23","RUS","Dmitry","Orlov","Novokuznetsk",NA,12
+8475744,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8475744.png",92,"C","L",74,207,188,94,"1992-05-19","RUS","Evgeny","Kuznetsov","Chelyabinsk",NA,12
+8475855,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8475855.png",71,"R","R",73,191,185,87,"1991-12-02","SWE","Jesper","Fast","Nassjo",NA,12
+8475883,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8475883.png",31,"G","L",76,238,193,108,"1989-10-02","DNK","Frederik","Andersen","Herning",NA,12
+8476958,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8476958.png",74,"D","L",75,207,191,94,"1994-05-01","USA","Jaccob","Slavin","Denver","CO",12
+8477484,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8477484.png",41,"G","L",75,191,191,87,"1995-06-08","CAN","Spencer","Martin","Oakville","ON",12
+8477962,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8477962.png",28,"L","L",73,215,185,98,"1996-03-15","USA","Brendan","Lemieux","Denver","CO",12
+8478427,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8478427.png",20,"C","L",72,176,183,80,"1997-07-26","FIN","Sebastian","Aho","Rauma",NA,12
+8478970,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8478970.png",5,"D","R",73,188,185,85,"1996-05-15","USA","Jalen","Chatfield","Ypsilanti","MI",12
+8479639,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8479639.png",15,"D","R",74,208,188,94,"1998-02-19","CAN","Dylan","Coghlan","Duncan","BC",12
+8480039,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8480039.png",88,"C","R",74,189,188,86,"1999-01-15","CZE","Martin","Necas","Nove Mesto na Morave",NA,12
+8480829,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8480829.png",82,"C","L",74,201,188,91,"2000-07-06","FIN","Jesperi","Kotkaniemi","Pori",NA,12
+8480830,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8480830.png",37,"R","L",74,195,188,88,"2000-03-26","RUS","Andrei","Svechnikov","Barnaul",NA,12
+8480835,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8480835.png",18,"C","L",71,174,180,79,"2000-02-03","USA","Jack","Drury","New York","NY",12
+8481576,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8481576.png",61,"C","L",72,176,183,80,"2001-05-28","CAN","Ryan","Suzuki","London","ON",12
+8481611,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8481611.png",52,"G","L",75,205,191,93,"1999-06-25","RUS","Pyotr","Kochetkov","Penza",NA,12
+8482093,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8482093.png",24,"C","R",70,175,178,79,"2002-02-01","CAN","Seth","Jarvis","Winnipeg","MB",12
+8482187,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8482187.png",91,"D","L",72,176,183,80,"2002-08-02","CAN","Ronan","Seeley","Yellowknife","NT",12
+8482666,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8482666.png",56,"D","R",74,195,188,88,"2002-11-01","USA","Scott","Morrow","Darien","CT",12
+8482809,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8482809.png",53,"R","R",70,173,178,78,"2003-08-03","USA","Jackson","Blake","Fargo","ND",12
+8484203,"https://assets.nhle.com/mugs/nhl/20232024/CAR/8484203.png",29,"L","R",70,161,178,73,"2005-05-05","CAN","Bradly","Nadeau","St-Francois de Madaw","NB",12
+8473575,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8473575.png",40,"G","L",74,205,188,93,"1988-04-27","RUS","Semyon","Varlamov","Samara",NA,2
+8475151,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8475151.png",21,"C","R",71,196,180,89,"1991-02-01","USA","Kyle","Palmieri","Smithtown","NY",2
+8475231,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8475231.png",53,"C","L",71,194,180,88,"1991-02-27","CAN","Casey","Cizikas","Toronto","ON",2
+8475314,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8475314.png",27,"L","L",75,227,191,103,"1990-07-03","USA","Anders","Lee","Edina","MN",2
+8475754,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8475754.png",29,"C","L",76,210,193,95,"1991-10-15","USA","Brock","Nelson","Warroad","MN",2
+8476419,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8476419.png",44,"C","R",71,185,180,84,"1992-11-11","CAN","Jean-Gabriel","Pageau","Ottawa","ON",2
+8476429,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8476429.png",24,"D","R",77,220,196,100,"1992-10-14","USA","Scott","Mayfield","St. Louis","MO",2
+8476917,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8476917.png",3,"D","L",75,210,191,95,"1994-08-16","CAN","Adam","Pelech","Toronto","ON",2
+8477392,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8477392.png",20,"R","R",75,209,191,95,"1995-07-28","USA","Hudson","Fasching","Apple Valley","MN",2
+8477500,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8477500.png",14,"C","L",73,213,185,97,"1995-04-05","CAN","Bo","Horvat","London","ON",2
+8477506,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8477506.png",6,"D","R",74,216,188,98,"1994-10-06","CAN","Ryan","Pulock","Dauphin","MB",2
+8478009,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8478009.png",30,"G","L",75,195,191,88,"1995-08-04","RUS","Ilya","Sorokin","Mezhdurechensk",NA,2
+8478115,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8478115.png",18,"L","L",77,215,196,98,"1996-05-31","SWE","Pierre","Engvall","Ljungby",NA,2
+8478445,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8478445.png",13,"C","R",73,190,185,86,"1997-05-26","CAN","Mathew","Barzal","Coquitlam","BC",2
+8479328,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8479328.png",16,"R","R",76,226,193,103,"1997-10-15","CAN","Julien","Gauthier","Pointe-aux-Trembles","QC",2
+8479395,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8479395.png",7,"D","L",74,210,188,95,"1998-02-15","CAN","Dennis","Cholowski","Langley","BC",2
+8480789,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8480789.png",26,"R","R",74,200,188,91,"2000-06-13","USA","Oliver","Wahlstrom","Portland","ME",2
+8480819,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8480819.png",1,"G","L",76,206,193,93,"1999-11-10","CZE","Jakub","Skarek","Jihlava",NA,2
+8480865,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8480865.png",8,"D","R",76,200,193,91,"2000-01-07","CAN","Noah","Dobson","Summerside","PE",2
+8481014,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8481014.png",28,"D","L",73,215,185,98,"2000-01-06","RUS","Alexander","Romanov","Moscow",NA,2
+8481016,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8481016.png",37,"C","L",68,170,173,77,"2000-07-22","RUS","Ruslan","Iskhakov","Moscow",NA,2
+8481237,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8481237.png",32,"C","L",73,190,185,86,"1999-04-29","USA","Kyle","MacLean","Livingston","NJ",2
+8481541,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8481541.png",4,"D","L",76,220,193,100,"2000-12-09","CAN","Samuel","Bolduc","Laval","QC",2
+8481601,"https://assets.nhle.com/mugs/nhl/20232024/NYI/8481601.png",10,"R","L",74,215,188,98,"2001-05-24","SWE","Simon","Holmstrom","Tranas",NA,2
+8474568,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8474568.png",2,"D","R",74,225,188,102,"1989-11-02","CAN","Luke","Schenn","Saskatoon","SK",18
+8474600,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8474600.png",59,"D","L",73,201,185,91,"1990-06-01","CHE","Roman","Josi","Bern",NA,18
+8474679,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8474679.png",14,"C","L",71,180,180,82,"1989-09-01","SWE","Gustav","Nyquist","Halmstad",NA,18
+8475158,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8475158.png",90,"C","L",73,207,185,94,"1991-02-07","CAN","Ryan","O'Reilly","Clinton","ON",18
+8476873,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8476873.png",17,"C","L",76,212,193,96,"1994-09-13","CAN","Mark","Jankowski","Hamilton","ON",18
+8476887,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8476887.png",9,"L","R",73,205,185,93,"1994-08-13","SWE","Filip","Forsberg","Ostervala",NA,18
+8476925,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8476925.png",10,"C","R",73,200,185,91,"1993-11-05","CAN","Colton","Sissons","North Vancouver","BC",18
+8477424,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8477424.png",74,"G","L",71,180,180,82,"1995-04-19","FIN","Juuse","Saros","Forssa",NA,18
+8477446,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8477446.png",47,"R","R",78,232,198,105,"1995-03-07","USA","Michael","McCarron","Grosse Pointe","MI",18
+8478438,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8478438.png",82,"C","L",73,179,185,81,"1997-04-28","USA","Tommy","Novak","St. Paul","MN",18
+8478468,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8478468.png",3,"D","L",75,225,191,102,"1997-04-28","CAN","Jeremy","Lauzon","Val-d'Or","QC",18
+8479371,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8479371.png",57,"D","R",72,189,183,86,"1998-06-20","CAN","Dante","Fabbro","Coquitlam","BC",18
+8479996,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8479996.png",8,"C","R",75,206,191,93,"1999-04-01","CAN","Cody","Glass","Winnipeg","MB",18
+8482062,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8482062.png",36,"L","L",75,195,191,88,"1995-10-28","USA","Cole","Smith","Brainerd","MN",18
+8482146,"https://assets.nhle.com/mugs/nhl/20232024/NSH/8482146.png",77,"R","R",72,183,183,83,"2002-02-21","CAN","Luke","Evangelista","Toronto","ON",18
+8474565,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8474565.png",7,"D","R",75,215,191,98,"1990-01-18","CAN","Alex","Pietrangelo","King City","ON",54
+8475188,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8475188.png",3,"D","L",76,215,193,98,"1991-01-21","CAN","Brayden","McNabb","Davidson","SK",54
+8475913,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8475913.png",61,"R","R",75,212,191,96,"1992-05-13","CAN","Mark","Stone","Winnipeg","MB",54
+8476448,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8476448.png",71,"C","L",72,190,183,86,"1993-01-08","SWE","William","Karlsson","Marsta",NA,54
+8476881,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8476881.png",48,"C","L",75,215,191,98,"1993-11-12","CZE","Tomas","Hertl","Praha",NA,54
+8477018,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8477018.png",17,"D","L",75,201,191,91,"1993-04-20","CAN","Ben","Hutton","Brockville","ON",54
+8477447,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8477447.png",27,"D","L",74,197,188,89,"1995-08-03","CAN","Shea","Theodore","Aldergrove","BC",54
+8477964,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8477964.png",49,"C","L",72,198,183,90,"1995-12-14","RUS","Ivan","Barbashev","Moscow",NA,54
+8478062,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8478062.png",65,"D","R",72,189,183,86,"1996-08-17","CAN","Dysin","Mayo","Victoria","BC",54
+8478396,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8478396.png",15,"D","L",75,207,191,94,"1997-01-25","USA","Noah","Hanifin","Boston","MA",54
+8478403,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8478403.png",9,"C","R",74,203,188,92,"1996-10-28","USA","Jack","Eichel","North Chelmsford","MA",54
+8478434,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8478434.png",55,"R","R",74,216,188,98,"1997-04-08","CAN","Keegan","Kolesar","Brandon","MB",54
+8478462,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8478462.png",10,"C","R",76,202,193,92,"1997-02-05","CAN","Nicolas","Roy","Amos","QC",54
+8478499,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8478499.png",33,"G","L",76,215,193,98,"1996-05-11","CAN","Adin","Hill","Comox","BC",54
+8479353,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8479353.png",21,"C","L",74,200,188,91,"1998-03-29","CAN","Brett","Howden","Calgary","AB",54
+8479980,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8479980.png",14,"D","L",78,240,198,109,"1998-12-05","CAN","Nicolas","Hague","Kitchener","ON",54
+8480007,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8480007.png",46,"R","L",74,202,188,92,"1999-03-31","DNK","Jonas","Rondbjerg","Horsholm",NA,54
+8480727,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8480727.png",2,"D","R",74,218,188,99,"1996-11-28","CAN","Zach","Whitecloud","Brandon","MB",54
+8480844,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8480844.png",54,"L","R",71,196,180,89,"2000-06-24","RUS","Grigori","Denisenko","Novosibirsk",NA,54
+8481462,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8481462.png",11,"L","L",73,198,185,90,"1996-02-01","USA","Mason","Morelli","Minot","ND",54
+8481520,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8481520.png",31,"G","R",73,207,185,94,"2000-09-21","USA","Isaiah","Saville","Anchorage","AK",54
+8481527,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8481527.png",6,"D","R",75,201,191,91,"2001-01-29","CAN","Kaedan","Korczak","Yorkton","SK",54
+8481604,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8481604.png",16,"L","L",73,194,185,88,"2000-10-26","RUS","Pavel","Dorofeyev","Nizhny Tagil",NA,54
+8482125,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8482125.png",NA,"R","R",72,195,183,88,"2002-01-23","SWE","Alexander","Holtz","Stockholm",NA,54
+8482138,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8482138.png",15,"D","L",73,201,185,91,"2002-02-20","FIN","Christoffer","Sedoff","Helsinki",NA,54
+8482153,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8482153.png",19,"C","L",72,191,183,87,"2001-10-22","USA","Brendan","Brisson","Los Angeles","CA",54
+8482484,"https://assets.nhle.com/mugs/nhl/20232024/VGK/8482484.png",32,"G","L",76,205,193,93,"2002-03-11","SWE","Jesper","Vikman","Danderyd",NA,54
+8470594,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8470594.png",29,"G","L",74,185,188,84,"1984-11-28","CAN","Marc-Andre","Fleury","Sorel","QC",30
+8474567,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8474567.png",24,"D","R",75,231,191,105,"1990-07-15","USA","Zach","Bogosian","Massena","NY",30
+8474716,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8474716.png",46,"D","R",69,166,175,75,"1989-11-29","CAN","Jared","Spurgeon","Edmonton","AB",30
+8475149,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8475149.png",90,"C","L",73,203,185,92,"1990-10-06","SWE","Marcus","Johansson","Landskrona",NA,30
+8475220,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8475220.png",17,"L","L",75,226,191,103,"1991-08-10","USA","Marcus","Foligno","Buffalo","NY",30
+8475692,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8475692.png",36,"R","L",68,181,173,82,"1987-09-01","NOR","Mats","Zuccarello","Oslo",NA,30
+8475750,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8475750.png",4,"D","L",75,204,191,93,"1992-02-03","USA","Jon","Merrill","Oklahoma City","OK",30
+8476463,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8476463.png",25,"D","L",74,196,188,89,"1993-07-12","SWE","Jonas","Brodin","Karlstad",NA,30
+8477451,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8477451.png",38,"R","R",72,197,183,89,"1994-09-20","USA","Ryan","Hartman","Hilton Head Island","SC",30
+8477919,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8477919.png",89,"C","R",72,184,183,83,"1993-05-01","CAN","Frederick","Gaudreau","Bromont","QC",30
+8478136,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8478136.png",5,"D","L",75,219,191,99,"1996-01-02","CAN","Jake","Middleton","Wainwright","AB",30
+8478493,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8478493.png",14,"C","L",75,207,191,94,"1997-01-29","SWE","Joel","Eriksson Ek","Karlstad",NA,30
+8478864,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8478864.png",97,"L","L",70,202,178,92,"1997-04-26","RUS","Kirill","Kaprizov","Novokuznetsk",NA,30
+8479406,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8479406.png",32,"G","L",74,184,188,83,"1998-06-07","SWE","Filip","Gustavsson","Skelleftea",NA,30
+8480880,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8480880.png",NA,"C","L",73,193,185,88,"2000-03-28","CZE","Jakub","Lauko","Prague",NA,30
+8480990,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8480990.png",47,"D","L",73,190,185,86,"2000-01-12","CAN","Declan","Chisholm","Bowmanville","ON",30
+8481557,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8481557.png",12,"L","L",74,201,188,91,"2001-04-05","USA","Matt","Boldy","Milford","MA",30
+8482079,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8482079.png",23,"C","L",69,182,175,83,"2001-09-23","AUT","Marco","Rossi","Feldkirch",NA,30
+8482122,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8482122.png",7,"D","R",73,200,185,91,"2002-08-22","USA","Brock","Faber","Maple Grove","MN",30
+8482177,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8482177.png",22,"C","L",71,176,180,80,"2002-07-17","RUS","Marat","Khusnutdinov","Moscow",NA,30
+8483499,"https://assets.nhle.com/mugs/nhl/20232024/MIN/8483499.png",28,"L","L",72,187,183,85,"2004-01-28","SWE","Liam","Ohgren","Stockholm",NA,30
+8473422,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8473422.png",17,"L","L",72,210,183,95,"1987-10-31","USA","Nick","Foligno","Buffalo","NY",16
+8475791,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8475791.png",71,"L","L",73,210,185,95,"1991-11-14","CAN","Taylor","Hall","Calgary","AB",16
+8475852,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8475852.png",34,"G","L",74,188,188,85,"1992-02-14","CZE","Petr","Mrazek","Ostrava",NA,16
+8476473,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8476473.png",5,"D","R",76,212,193,96,"1993-03-26","USA","Connor","Murphy","Dublin","OH",16
+8476960,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8476960.png",89,"C","L",74,190,188,86,"1994-08-06","CAN","Andreas","Athanasiou","Woodbridge","ON",16
+8477450,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8477450.png",16,"C","L",74,200,188,91,"1995-07-04","CAN","Jason","Dickinson","Georgetown","ON",16
+8477495,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8477495.png",4,"D","R",76,213,193,97,"1994-10-03","USA","Seth","Jones","Arlington","TX",16
+8477987,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8477987.png",8,"C","L",72,190,183,86,"1996-04-09","USA","Ryan","Donato","Boston","MA",16
+8480798,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8480798.png",23,"C","L",72,190,183,86,"1999-10-12","CHE","Philipp","Kurashev","Munsingen",NA,16
+8481568,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8481568.png",72,"D","L",78,217,198,98,"2001-06-05","USA","Alex","Vlasic","Wilmette","IL",16
+8481624,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8481624.png",NA,"R","L",74,192,188,87,"1994-10-10","RUS","Ilya","Mikheyev","Omsk",NA,16
+8482172,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8482172.png",84,"L","L",72,180,183,82,"2002-06-25","USA","Landon","Slaggert","South Bend","IN",16
+8482821,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8482821.png",40,"G","L",75,180,191,82,"1999-08-19","SWE","Arvid","Soderblom","Göteborg",NA,16
+8483466,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8483466.png",55,"D","L",73,185,185,84,"2004-06-21","CAN","Kevin","Korchinski","Saskatoon","SK",16
+8483493,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8483493.png",91,"C","R",69,175,175,79,"2004-01-14","USA","Frank","Nazar","Detroit","MI",16
+8484144,"https://assets.nhle.com/mugs/nhl/20232024/CHI/8484144.png",98,"C","R",70,185,178,84,"2005-07-17","CAN","Connor","Bedard","North Vancouver","BC",16
+8474151,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8474151.png",27,"D","L",73,215,185,98,"1989-06-13","USA","Ryan","McDonagh","St. Paul","MN",14
+8475167,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8475167.png",77,"D","L",79,246,201,112,"1990-12-18","SWE","Victor","Hedman","Ornskoldsvik",NA,14
+8476453,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8476453.png",86,"R","L",71,182,180,83,"1993-06-17","RUS","Nikita","Kucherov","Maykop",NA,14
+8476822,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8476822.png",11,"C","R",70,190,178,86,"1989-04-28","USA","Luke","Glendening","Grand Rapids","MI",14
+8476883,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8476883.png",88,"G","L",76,220,193,100,"1994-07-25","RUS","Andrei","Vasilevskiy","Tyumen",NA,14
+8477404,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8477404.png",NA,"C","L",71,180,180,82,"1994-10-06","USA","Jake","Guentzel","Omaha","NE",14
+8477426,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8477426.png",20,"L","L",75,229,191,104,"1995-03-20","CAN","Nick","Paul","Mississauga","ON",14
+8477839,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8477839.png",73,"L","L",68,179,173,81,"1992-06-08","USA","Conor","Sheary","Winchester","MA",14
+8477992,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8477992.png",31,"G","L",77,219,196,99,"1995-09-19","SWE","Jonas","Johansson","Gavle",NA,14
+8478010,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8478010.png",21,"C","R",70,178,178,81,"1996-03-13","CAN","Brayden","Point","Calgary","AB",14
+8478178,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8478178.png",43,"D","R",73,195,185,88,"1996-02-28","CAN","Darren","Raddysh","Toronto","ON",14
+8478416,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8478416.png",81,"D","R",75,230,191,104,"1997-05-28","SVK","Erik","Cernak","Kosice",NA,14
+8478519,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8478519.png",71,"C","L",73,190,185,86,"1997-07-15","CAN","Anthony","Cirelli","Etobicoke","ON",14
+8479542,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8479542.png",38,"L","L",74,183,188,83,"1998-08-27","CAN","Brandon","Hagel","Saskatoon","SK",14
+8479591,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8479591.png",23,"C","L",72,201,183,91,"1996-09-09","USA","Michael","Eyssimont","Littleton","CO",14
+8480246,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8480246.png",48,"D","R",75,202,191,92,"1998-06-15","USA","Nick","Perbix","Elk River","MN",14
+8482070,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8482070.png",41,"R","R",73,192,185,87,"1998-01-26","USA","Mitchell","Chaffee","Grand Rapids","MI",14
+8482655,"https://assets.nhle.com/mugs/nhl/20232024/TBL/8482655.png",NA,"D","L",73,173,185,78,"2000-06-06","CHE","J.J.","Moser","Biel",NA,14
+8475176,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8475176.png",94,"D","R",70,180,178,82,"1991-01-03","CAN","Ryan","Ellis","Hamilton","ON",4
+8475235,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8475235.png",44,"L","L",73,218,185,99,"1991-02-22","CAN","Nicolas","Deslauriers","LaSalle","QC",4
+8475793,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8475793.png",NA,"C","R",75,218,191,99,"1992-07-31","CAN","Ryan","Johansen","Vancouver","BC",4
+8476372,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8476372.png",24,"D","L",75,197,191,89,"1993-06-03","USA","Nick","Seeler","Eden Prairie","MN",4
+8476461,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8476461.png",14,"C","L",76,210,193,95,"1992-12-07","USA","Sean","Couturier","Phoenix","AZ",4
+8476872,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8476872.png",21,"C","L",73,191,185,87,"1994-05-30","CAN","Scott","Laughton","Oakville","ON",4
+8477499,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8477499.png",55,"D","R",76,208,193,94,"1994-10-27","FIN","Rasmus","Ristolainen","Turku",NA,4
+8477903,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8477903.png",19,"R","R",74,212,188,96,"1991-11-23","USA","Garnet","Hathaway","Naples","FL",4
+8477948,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8477948.png",6,"D","L",76,222,193,101,"1996-03-29","CAN","Travis","Sanheim","Elkhorn","MB",4
+8478439,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8478439.png",11,"R","R",70,192,178,87,"1997-03-11","CAN","Travis","Konecny","London","ON",4
+8478905,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8478905.png",82,"G","L",79,214,201,97,"1996-11-28","RUS","Ivan","Fedotov",NA,NA,4
+8480015,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8480015.png",74,"R","R",73,210,185,95,"1999-02-16","CAN","Owen","Tippett","Peterborough","ON",4
+8480028,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8480028.png",48,"C","L",72,193,183,88,"1999-05-14","CAN","Morgan","Frost","Aurora","ON",4
+8480068,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8480068.png",25,"C","L",74,204,188,93,"1999-01-03","USA","Ryan","Poehling","Lakeville","MN",4
+8480220,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8480220.png",27,"L","L",74,194,188,88,"1999-02-05","USA","Noah","Cates","Stillwater","MN",4
+8480797,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8480797.png",86,"L","L",72,186,183,84,"2000-02-25","USA","Joel","Farabee","Syracuse","NY",4
+8481035,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8481035.png",33,"G","L",75,194,191,88,"1999-10-20","SWE","Samuel","Ersson","Falun",NA,4
+8481178,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8481178.png",5,"D","L",75,200,191,91,"2000-03-30","RUS","Egor","Zamula","Chelyabinsk",NA,4
+8481546,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8481546.png",8,"D","L",72,194,183,88,"2001-01-05","USA","Cam","York","Anaheim","CA",4
+8482142,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8482142.png",9,"D","R",71,185,180,84,"2002-04-08","CAN","Jamie","Drysdale","Toronto","ON",4
+8482159,"https://assets.nhle.com/mugs/nhl/20232024/PHI/8482159.png",71,"R","R",74,215,188,98,"2002-01-18","CAN","Tyson","Foerster","Alliston","ON",4
+8474574,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8474574.png",57,"D","R",80,229,203,104,"1990-02-01","USA","Tyler","Myers","Houston","TX",23
+8476468,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8476468.png",9,"C","L",73,218,185,99,"1993-03-14","USA","J.T.","Miller","East Palestine","OH",23
+8476858,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8476858.png",34,"L","L",72,193,183,88,"1993-10-09","CAN","Phillip","Di Giuseppe","Toronto","ON",23
+8476927,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8476927.png",53,"C","L",72,185,183,84,"1994-08-15","LVA","Teddy","Blueger","Riga",NA,23
+8477359,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8477359.png",5,"D","R",74,199,188,90,"1993-06-08","USA","Tucker","Poolman","Dubuque","IA",23
+8477369,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8477369.png",7,"D","L",77,208,196,94,"1994-07-27","CAN","Carson","Soucy","Viking","AB",23
+8477967,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8477967.png",35,"G","L",76,192,193,87,"1995-12-08","USA","Thatcher","Demko","San Diego","CA",23
+8478017,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8478017.png",51,"D","R",71,185,180,84,"1995-12-25","CAN","Mark","Friedman","Toronto","ON",23
+8478057,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8478057.png",81,"C","L",75,206,191,93,"1996-05-15","USA","Dakota","Joshua","Dearborn","MI",23
+8478444,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8478444.png",6,"R","R",73,208,185,94,"1997-02-25","USA","Brock","Boeser","Burnsville","MN",23
+8478454,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8478454.png",47,"D","R",74,201,188,91,"1997-04-02","CAN","Noah","Juulsen","Surrey","BC",23
+8478846,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8478846.png",86,"D","L",74,190,188,86,"1995-03-17","CAN","Christian","Wolanin","Quebec City","QC",23
+8478856,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8478856.png",8,"R","R",70,165,178,75,"1996-03-11","USA","Conor","Garland","Scituate","MA",23
+8479425,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8479425.png",17,"D","R",72,190,183,86,"1997-11-02","CZE","Filip","Hronek","Hradec Kralove",NA,23
+8480012,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8480012.png",40,"C","L",74,176,188,80,"1998-11-12","SWE","Elias","Pettersson","Sundsvall",NA,23
+8480459,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8480459.png",24,"C","L",71,179,180,81,"1996-05-24","CHE","Pius","Suter","Zurich",NA,23
+8480800,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8480800.png",43,"D","L",70,180,178,82,"1999-10-14","USA","Quinn","Hughes","Orlando","FL",23
+8481024,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8481024.png",94,"C","R",73,178,185,81,"1999-11-16","SWE","Linus","Karlsson","Eksjö",NA,23
+8481535,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8481535.png",21,"L","L",69,185,175,84,"2000-12-20","SWE","Nils","Hoglander","BOCKTRäSK",NA,23
+8481617,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8481617.png",92,"R","L",73,190,185,86,"2001-06-24","RUS","Vasily","Podkolzin","Moscow",NA,23
+8481668,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8481668.png",31,"G","L",76,203,193,92,"2001-03-22","LVA","Arturs","Silovs","Riga",NA,23
+8482496,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8482496.png",88,"C","L",74,179,188,81,"2000-02-07","SWE","Nils","Aman","Avesta",NA,23
+8482691,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8482691.png",27,"C","L",74,190,188,86,"2002-11-14","FIN","Aatu","Raty","Oulu",NA,23
+8482918,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8482918.png",46,"R","R",74,202,188,92,"2003-01-09","BLR","Danila","Klimovich","Pinsk",NA,23
+8483395,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8483395.png",80,"L","L",72,184,183,83,"2001-01-09","CAN","Arshdeep","Bains","Surrey","BC",23
+8483476,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8483476.png",NA,"R","R",71,172,180,78,"2004-07-24","SWE","Jonathan","Lekkerimäki","Tullinge",NA,23
+8483678,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8483678.png",NA,"D","L",74,185,188,84,"2004-02-16","SWE","Elias","Pettersson","Vasteras",NA,23
+8484136,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8484136.png",NA,"C","L",73,181,185,82,"2000-09-05","USA","Max","Sasson","Birmingham","MI",23
+8484268,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8484268.png",60,"G","L",78,229,198,104,"2000-04-06","BLR","Nikita","Tolopilo","Minsk",NA,23
+8484287,"https://assets.nhle.com/mugs/nhl/20232024/VAN/8484287.png",48,"D","R",73,192,185,87,"2001-06-09","USA","Cole","McWard","Fenton","MO",23
