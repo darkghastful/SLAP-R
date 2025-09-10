@@ -17,7 +17,7 @@
 #'  SLAP.season(STL.20242025)
 #' }
 SLAP.season <- function(SLAPbase){
-  season <- str_split(class(SLAPbase@regular.season@games.played), "\\.")[[1]][1]
+  season <- uuln(SLAPbase@league@all.games[,"season"])
   return(season)
 }
 
@@ -35,12 +35,12 @@ SLAP.season <- function(SLAPbase){
 #' }
 SLAP.team <- function(SLAPbase){
   # team <- teamName.teamId.triCode(teams.in.league(SLAPbase)[1, ], SLAPbase)
-  team <- teamName.teamId.triCode(uuln(SLAPbase@regular.season@players.by.game.type[,"teamId"]), SLAPbase)
+  team <- teamName.teamId.triCode(uuln(SLAPbase@regular.season@player.stats[,"teamId"]), SLAPbase)
   return(team)
 }
 
 #' SLAP.zip
-#' @importFrom methods slot slotNames
+#' @importFrom methods is slot slotNames
 #' @importFrom utils write.csv
 #' @importFrom zip zip
 #'
@@ -56,10 +56,9 @@ SLAP.team <- function(SLAPbase){
 #' SLAP.zip(STL.20242025, "STL.20242025.zip")
 #' }
 SLAP.zip <- function(SLAPbase, filename=NA){
-  season <- SLAP.season(SLAPbase)
-  teamTriCode <- SLAP.team(SLAPbase)$triCode
-
   if(is.na(filename)){
+    season <- SLAP.season(SLAPbase)
+    teamTriCode <- SLAP.team(SLAPbase)$triCode
     filename <- paste(season, teamTriCode, "zip", sep=".")
   }
 
@@ -72,30 +71,34 @@ SLAP.zip <- function(SLAPbase, filename=NA){
 
   temp <- tempdir()
   temp.dir <- paste(temp, "temp.dir", sep="/")
-  suppressWarnings(dir.create(temp.dir))
-
-  # png.path <- paste0("inst/extdata", "SLAPstructure.png")
-  png.path <- system.file("extdata", "SLAPstructure.png", package="SLAP")
-  file.copy(png.path, "SLAPstructure.png")
+  suppressWarnings(dir.create(temp.dir, recursive=TRUE))
 
   save.csv.recurrsive <- function(object, path, itteration=1){
-    if(class(object)=="data.frame"){ # if the innermost slot is a data frame, save it
+    if(is(object, "data.frame")){ # if the innermost slot is a data frame, save it
       write.csv(object, paste(path, "csv", sep="."), row.names=FALSE)
-      # cat(paste("\n   ", path))
       return() # end call
-    }else if(class(object)=="NULL"){
-      # cat(("\n   NULL"))
+    }else if(is.null(object)){
       return() # end call
-    }
+    }else if(is(object, "list")){
+      suppressWarnings(dir.create(path))
+      # cat(paste("\n  ", path))
 
-    suppressWarnings(dir.create(path))
-    # cat(paste("\n  ", path))
+      slots <- names(object)
+      for(slot.number in 1:length(slots)){
+        object.slot <- object[[slots[slot.number]]]
+        path.slot <- paste(path, slots[slot.number], sep="/")
+        save.csv.recurrsive(object.slot, path.slot, itteration=itteration+1)
+      }
+    }else{
+      suppressWarnings(dir.create(path))
+      # cat(paste("\n  ", path))
 
-    slots <- slotNames(object)
-    for(slot.number in 1:length(slots)){
-      object.slot <- slot(object, slots[slot.number])
-      path.slot <- paste(path, slots[slot.number], sep="/")
-      save.csv.recurrsive(object.slot, path.slot, itteration=itteration+1)
+      slots <- slotNames(object)
+      for(slot.number in 1:length(slots)){
+        object.slot <- slot(object, slots[slot.number])
+        path.slot <- paste(path, slots[slot.number], sep="/")
+        save.csv.recurrsive(object.slot, path.slot, itteration=itteration+1)
+      }
     }
 
     # fail safe in case of infinite loop
@@ -105,8 +108,16 @@ SLAP.zip <- function(SLAPbase, filename=NA){
   }
 
   save.csv.recurrsive(SLAPbase, temp.dir) # Save files to folder
-  print(list.dirs(temp.dir, recursive=FALSE))
-  zip::zip(filename, list.dirs(temp.dir, recursive=FALSE), recurse=TRUE, mode="cherry-pick") # Zip files in folder
+
+
+  png.path <- paste("inst/extdata", "SLAPstructure.png", sep="/")
+  # png.path <- system.file("extdata", "SLAPstructure.png", package="SLAP")
+  print(paste(temp.dir, "SLAPstructure.png", sep="/"))
+  file.copy(png.path, paste(temp.dir, "SLAPstructure.png", sep="/"))
+
+
+  files.dirs <- c(list.files(temp.dir, full.names = TRUE), list.dirs(temp.dir, recursive=FALSE))
+  zip::zip(filename, files.dirs, recurse=TRUE, mode="cherry-pick") # Zip files in folder
   # zip(file, list.dirs(temp.dir, recursive=FALSE), recurse=TRUE) # Zip files in folder
 
   unlink(temp.dir, recursive=TRUE) # Delete unzipped folder

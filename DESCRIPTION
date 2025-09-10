@@ -5,7 +5,7 @@ Authors@R:
     person("Bailey", "Quinn", , "booequinn@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0002-5318-8310"))
 Description: The NHL Scalable League Analytics Platform or SLAP is the framework for a pipeline that generates a processed database from procedurally scraping the NHL API. Generated SLAPbases are structured to be used for downstream analytics and can be dowloaded as a structured zip file. 
-License: `use_gpl3_license()`
+License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
@@ -13,5 +13,7 @@ Imports:
   methods,
   bqutils,
   stringr,
-  zip
+  zip,
+  jsonlite
+Remotes: darkghastful/bqutils
 

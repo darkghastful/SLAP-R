@@ -4,10 +4,12 @@
 \alias{api.teams.by.season}
 \title{api.teams.by.season}
 \usage{
-api.teams.by.season(season)
+api.teams.by.season(season, all.teams = FALSE)
 }
 \arguments{
 \item{season}{season string}
+
+\item{all.teams}{boolean; all teams}
 }
 \value{
 dataframe

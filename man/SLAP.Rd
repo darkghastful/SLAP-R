@@ -7,13 +7,15 @@
 SLAP(
   season = current.season(),
   team,
-  game.types = c("pre.season", "regular.season", "playoffs")
+  game.types = c("preseason", "regular.season", "playoffs")
 )
 }
 \arguments{
 \item{season}{season string}
 
-\item{team}{}
+\item{team}{teamName, teamId, or triCode}
+
+\item{game.types}{list; select one or more c("preseason", "regular.season", "playoffs")}
 }
 \value{
 SLAP object

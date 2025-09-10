@@ -17,11 +17,11 @@ knitr::opts_chunk$set(
 ## **Installation**
 
 <!-- From CRAN (when published) -->
-<!-- install.packages("package") -->
+<!-- install.packages("SLAP") -->
 
 ```{r, results = "hide", warning = FALSE, message = FALSE}
 # install.packages("devtools")      
-install.packages("darkghastful/package")
+install.packages("darkghastful/SLAP")
 ```
 
 ---
@@ -64,10 +64,10 @@ function()
 
 ## **Dependencies**
 
-- **bqutils**  
-- **Biostrings**
+- **bqutils**
 - **stringr**  
-- **magrittr**  
+- **jsonlite**
+- **zip**  
 
 ---
 

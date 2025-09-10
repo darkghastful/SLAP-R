@@ -1,33 +1,44 @@
 
-#' @export
-general.league.information <- function(...){
-  object <- do.call("new", c(Class="general.league.information", list(...)))
-  return(object)
-}
+# league <- function(...){
+#   object <- do.call("new", c(Class="league", list(...)))
+#   return(object)
+# }
 
 
 #' api.teams.by.season
+#' @importFrom bqutils uuln which.col.name content.from.endpoint
 #'
 #' @param season season string
+#' @param all.teams boolean; all teams
 #'
 #' @return dataframe
 #' @export
 #'
 #' @examples
 #' api.teams.by.season("20242025")
-api.teams.by.season <- function(season){
+api.teams.by.season <- function(season, all.teams=FALSE){
   all.games.temp <- api.games.by.season(season)
 
-  all.teams.temp <- content.from.endpoint("https://api.nhle.com/stats/rest/en/team")$data
-  colnames(all.teams.temp)[which.col.name(all.teams.temp, "id")] <- "teamId"
-  colnames(all.teams.temp)[which.col.name(all.teams.temp, "fullName")] <- "teamName"
-  all.teams.temp <- subset.object(all.teams.temp, uuln(all.games.temp[, c("homeTeamId")]), "teamId")
-  all.teams.temp <- all.teams.temp[, c("teamId", "triCode", "teamName")]
-  # assign("all.teams.temp", all.teams.temp, envir=parent.env(environment()))
+  # rds.path <- paste0("inst/extdata/teams.rds")
+  rds.path <- system.file("extdata", "teams.rds", package="SLAP")
+  if(file.exists(rds.path)){
+    all.teams.temp <- readRDS(rds.path)
+
+  }else{
+    all.teams.temp <- content.from.endpoint("https://api.nhle.com/stats/rest/en/team")$data
+    colnames(all.teams.temp)[which.col.name(all.teams.temp, "id")] <- "teamId"
+    colnames(all.teams.temp)[which.col.name(all.teams.temp, "fullName")] <- "teamName"
+    all.teams.temp <- all.teams.temp[, c("teamId", "triCode", "teamName")]
+  }
+  if(!all.teams){
+    all.teams.temp <- subset.object(all.teams.temp, uuln(all.games.temp[, c("homeTeamId")]), "teamId")
+  }
   return(all.teams.temp)
 }
 
 #' api.players.by.season
+#' @importFrom bqutils uln which.col.name content.from.endpoint
+#' @importFrom stringr str_detect str_split
 #'
 #' @param season season string
 #'
@@ -37,10 +48,10 @@ api.teams.by.season <- function(season){
 #' @examples
 #' api.players.by.season("20242025")
 api.players.by.season <- function(season){
-  # csv.path <- paste0("inst/extdata/players/", season, ".players.csv")
-  csv.path <- system.file("extdata/players", paste0(season, ".players.csv"), package="SLAP")
-  if(file.exists(csv.path)){
-    all.players.temp <- read.csv(csv.path)
+  # rds.path <- paste0("inst/extdata/players/", season, ".players.rds")
+  rds.path <- system.file("extdata", "players", paste0(season, ".players.rds"), package="SLAP")
+  if(file.exists(rds.path)){
+    all.players.temp <- readRDS(rds.path)
     return(all.players.temp)
   }
 
@@ -94,9 +105,9 @@ api.players.by.season <- function(season){
 #' @examples
 #' api.games.by.season("20242025")
 api.games.by.season <- function(season){
-  # csv.path <- paste0("inst/extdata/games/", season, ".games.csv")
-  csv.path <- system.file("extdata/games", paste0(season, ".games.csv"), package="SLAP")
-  all.games.temp <- read.csv(csv.path)
+  # rds.path <- paste0("inst/extdata/games/", season, ".games.rds")
+  rds.path <- system.file("extdata", "games", paste0(season, ".games.rds"), package="SLAP")
+  all.games.temp <- readRDS(rds.path)
 
   # all.games.temp[,"Date"] <- format(as.Date(all.games.temp[,"easternStartTime"], format="%Y-%m-%dT%H:%M:%S"), "%m-%d-%Y")
   all.games.temp <- all.games.temp[,c("season", "gameId", "easternStartTime", "gameDate", "gameType", "period", "homeScore", "visitingScore", "homeTeamId", "visitingTeamId")]
@@ -109,6 +120,10 @@ api.games.by.season <- function(season){
 
 
 #' api.players.by.game.type
+#' @importFrom methods is
+#' @importFrom bqutils uln which.col.name
+#' @importFrom stringr str_detect str_split
+#' @importFrom jsonlite flatten
 #'
 #' @param season season string
 #' @param team triCode
@@ -139,7 +154,7 @@ api.players.by.game.type <- function(season, team, game.type){
       if(length(game.type.player.stats[[game.type.player.stats.number]])==0){
         break
       }
-      if(class(game.type.player.stats[[game.type.player.stats.number]])=="data.frame"){
+      if(is(game.type.player.stats[[game.type.player.stats.number]], "data.frame")){
         player.type.embeded <- game.type.player.stats[[game.type.player.stats.number]]
         player.type <- player.type.embeded[,!uln(lapply(player.type.embeded, class))=="data.frame"]
         player.type.embeded <- flatten(player.type.embeded)

@@ -11,13 +11,9 @@
 #' teamName.teamId.triCode("STL")
 teamName.teamId.triCode <- function(team, SLAPbase=NA){
   if(suppressWarnings(is.na(SLAPbase))){
-    if(!exists("all.teams.temp")){
-      object <- api.teams.by.season(current.season())
-    }else{
-      object <- all.teams.temp
-    }
+    object <- api.teams.by.season(current.season())
   }else{
-    object <- SLAPbase@general.league.information@teams.in.league
+    object <- SLAPbase@league@teams
   }
 
 

@@ -10,8 +10,10 @@ regular.season class
 \section{Slots}{
 
 \describe{
-\item{\code{players.by.game.type}}{ANY.}
+\item{\code{player.stats}}{data.frame; player stats}
 
-\item{\code{games.played}}{ANY.}
+\item{\code{game.stats}}{data.frame; game stats}
+
+\item{\code{games}}{list; games}
 }}
 
