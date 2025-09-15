@@ -1,61 +1,49 @@
 
----
-output: github_document
----
-
-```{r, include=FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  fig.bg = "transparent",
-  out.width = "100%"
-)
-```
-
-
 # **[SLAP-R](https://github.com/darkghastful/SLAP-R)**
 
 The use of SLAPbase functions is preferable as they reduce API accession
 
----
+------------------------------------------------------------------------
 
 ## **Installation**
 
 <!-- From CRAN (when published) -->
 <!-- install.packages("SLAP") -->
 
-```{r, results = "hide", warning = FALSE, message = FALSE}
+``` r
 # install.packages("devtools")      
 install.packages("darkghastful/SLAP-R")
 ```
 
----
+------------------------------------------------------------------------
 
 ## **Quick Start**
 
 ### **Load the package**
 
-```{r, results = "hide", warning = FALSE, message = FALSE}
+``` r
 library(SLAP)
 ```
 
 ### **Usage**
 
 #### **Building a SLAPbase**
+
 ##### Identify season
-```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE}
+
+``` r
 season <- current.season() # Until the 20252026 season begins current.season() will return 20242025
 ```
 
 ##### Select team
-```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE}
+
+``` r
 api.teams.by.season(season)
 ```
 
 ##### SLAP assembly
 
-```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE}
+``` r
 SLAP(season, "STL") # teamId, triCode and teamName are all supported inputs
 ```
 
@@ -64,24 +52,14 @@ SLAP(season, "STL") # teamId, triCode and teamName are all supported inputs
 #### **API Functions**
 
 <!-- Disclaimer about API overuse -->
-
-```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE}
-
-```
-
 <!-- --- -->
-
 <!-- ## **Functions** -->
-
 <!-- ### `function()` -->
-
 <!-- Description -->
-
 <!-- - **Arguments**   -->
 <!--   - `arg` — Arg description. -->
 <!-- - **Returns**   -->
 <!--   - returns - Return description. -->
-
 <!-- ### **Example** -->
 <!-- #### `function()` -->
 <!-- Additional information. -->
@@ -89,16 +67,16 @@ SLAP(season, "STL") # teamId, triCode and teamName are all supported inputs
 <!-- function() -->
 <!-- ``` -->
 
----
+------------------------------------------------------------------------
 
 ## **Dependencies**
 
 - **bqutils**
 - **stringr**  
 - **jsonlite**
-- **zip**  
+- **zip**
 
----
+------------------------------------------------------------------------
 
 ## **License**
 
