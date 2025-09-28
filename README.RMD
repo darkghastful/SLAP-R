@@ -29,11 +29,7 @@ SLAPbase structure:
 <!-- From CRAN (when published) -->
 <!-- install.packages("SLAP") -->
 
-<<<<<<< HEAD
 ```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE}
-=======
-```{r, results = "hide", warning = FALSE, message = FALSE}
->>>>>>> cd995eb5318cc0e19ce3fda12fa0cd5e81d13d48
 # install.packages("remotes")
 install_github("darkghastful/SLAP-R")
 ```
@@ -64,8 +60,12 @@ api.teams.by.season(season)
 ##### SLAP assembly
 
 ```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE}
-[SLAP(season, "STL")](#slap) # teamId, triCode and teamName are all supported inputs
+SLAP(season, "STL") # teamId, triCode and teamName are all supported inputs
 ```
+
+<!-- ```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE} -->
+<!-- [SLAP(season, "STL")](#slap) # teamId, triCode and teamName are all supported inputs -->
+<!-- ``` -->
 
 
 

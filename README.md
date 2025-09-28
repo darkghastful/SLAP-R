@@ -48,8 +48,12 @@ api.teams.by.season(season)
 ##### SLAP assembly
 
 ``` r
-[SLAP(season, "STL")](#slap) # teamId, triCode and teamName are all supported inputs
+SLAP(season, "STL") # teamId, triCode and teamName are all supported inputs
 ```
+
+<!-- ```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE} -->
+<!-- [SLAP(season, "STL")](#slap) # teamId, triCode and teamName are all supported inputs -->
+<!-- ``` -->
 
 #### **Functions**
 
