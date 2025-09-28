@@ -6,12 +6,15 @@
 
 
 #' api.teams.by.season
+#'
+#'
+#'
 #' @importFrom bqutils uuln which.col.name content.from.endpoint
 #'
-#' @param season season string
-#' @param all.teams boolean; all teams
+#' @param season `string` Season identifier.
+#' @param all.teams `logical(1)` Include all past and current teams? Default `FALSE`
 #'
-#' @return dataframe
+#' @return 'data.frame' A table containing team identifiers.
 #' @export
 #'
 #' @examples

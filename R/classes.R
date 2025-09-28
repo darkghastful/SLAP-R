@@ -3,7 +3,7 @@
 # Create class for general league information containing teams.in.league, players.in.league, and games in season
 #' league
 #'
-#' @slot teams data.frame; teams
+#' @slot teams `data.frame` Teams that played during specified season.
 #' @slot players data.frame; players
 #' @slot all.games data.frame; games
 #'
