@@ -21,31 +21,29 @@ install_github("darkghastful/SLAP-R")
 
 ------------------------------------------------------------------------
 
-## **Quick Start**
+## **Usage**
 
-### **Load the package**
+### **Load**
 
 ``` r
 library(SLAP)
 ```
 
-### **Usage**
+### **Build a SLAPbase**
 
-#### **Building a SLAPbase**
-
-##### Identify season
+#### Identify season
 
 ``` r
 season <- current.season() # Until the 20252026 season begins current.season() will return 20242025
 ```
 
-##### Select team
+#### Select team
 
 ``` r
 api.teams.by.season(season)
 ```
 
-##### [SLAP assembly](#slap)
+#### [SLAP assembly](#slap)
 
 ``` r
 SLAP(season, "STL") # teamId, triCode, and teamName are all supported inputs
@@ -55,7 +53,7 @@ SLAP(season, "STL") # teamId, triCode, and teamName are all supported inputs
 <!-- [SLAP(season, "STL")](#slap) # teamId, triCode and teamName are all supported inputs -->
 <!-- ``` -->
 
-#### **Functions**
+### **Functions**
 
 #### **API Functions**
 
