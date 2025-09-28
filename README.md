@@ -36,7 +36,7 @@ library(SLAP)
 ##### Identify season
 
 ``` r
-season <- current.season() # Until the 20252026 season begins current.season() will return 
+season <- current.season() # Until the 20252026 season begins current.season() will return 20242025
 ```
 
 ##### Select team
@@ -45,10 +45,10 @@ season <- current.season() # Until the 20252026 season begins current.season() w
 api.teams.by.season(season)
 ```
 
-##### SLAP assembly
+##### [SLAP assembly](#slap)
 
 ``` r
-SLAP(season, "STL") # teamId, triCode and teamName are all supported inputs
+SLAP(season, "STL") # teamId, triCode, and teamName are all supported inputs
 ```
 
 <!-- ```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE} -->
@@ -70,7 +70,8 @@ api.players.by.season(season)
 
 ## **Descriptions**
 
-<!-- ### `SLAP()` -->
+### `SLAP()`
+
 <!-- Description -->
 <!-- - **Arguments** -->
 <!--   - `arg` — Arg description. -->
