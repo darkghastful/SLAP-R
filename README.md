@@ -31,37 +31,53 @@ library(SLAP)
 
 ### **Build a SLAPbase**
 
-#### Identify season
-
 ``` r
-season <- current.season() # Until the 20252026 season begins current.season() will return 20242025
+season <- "20242025" # Select season 
+# season <- current.season() # Alternative
+
+api.teams.by.season(season) # Select team
+
+STL.20242025 <- SLAP(season, "STL") # [SLAPbase assembly](#slap)
 ```
 
-#### Select team
+### **Save SLAPbase**
 
 ``` r
-api.teams.by.season(season)
+SLAP.zip(STL.20242025, "STL_20242025.zip") # Save SLAPbase as a zip (for external use)
 ```
 
-#### [SLAP assembly](#slap)
-
-``` r
-SLAP(season, "STL") # teamId, triCode, and teamName are all supported inputs
-```
-
+<!-- #### Identify season -->
+<!-- ```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE} -->
+<!-- season <- current.season() # Until the 20252026 season begins current.season() will return 20242025 -->
+<!-- ``` -->
+<!-- #### Select team -->
+<!-- ```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE} -->
+<!-- api.teams.by.season(season) -->
+<!-- ``` -->
+<!-- #### [SLAP assembly](#slap) -->
+<!-- ```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE} -->
+<!-- SLAP(season, "STL") # teamId, triCode, and teamName are all supported inputs -->
+<!-- ``` -->
 <!-- ```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE} -->
 <!-- [SLAP(season, "STL")](#slap) # teamId, triCode and teamName are all supported inputs -->
 <!-- ``` -->
 
-### **Functions**
+### **Functionality**
 
-#### **API Functions**
+``` r
+SLAP.season(STL.20242025) # SLAPbase season
+SLAP.team(STL.20242025) # Pull SLAPbase team
+```
+
+### **API Functions**
 
 <!-- Disclaimer about API overuse -->
 
 ``` r
-api.teams.by.season(season) 
+api.teams.by.season(season)
 api.players.by.season(season)
+api.games.by.season(season)
+api.players.by.game.type(season, "STL", "regular.season")
 ```
 
 ------------------------------------------------------------------------

@@ -56,7 +56,7 @@ STL.20242025 <- SLAP(season, "STL") # [SLAPbase assembly](#slap)
 ```
 
 ### **Save SLAPbase**
-```{r}
+```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE}
 SLAP.zip(STL.20242025, "STL_20242025.zip") # Save SLAPbase as a zip (for external use)
 ```
 
@@ -85,7 +85,7 @@ SLAP.zip(STL.20242025, "STL_20242025.zip") # Save SLAPbase as a zip (for externa
 
 ### **Functionality**
 
-```{r}
+```{r, results = "hide", warning = FALSE, message = FALSE, eval=FALSE}
 SLAP.season(STL.20242025) # SLAPbase season
 SLAP.team(STL.20242025) # Pull SLAPbase team
 ```
