@@ -7,7 +7,7 @@
 
 #' api.teams.by.season
 #'
-#'
+#' Pulls the teams active in the provided season.
 #'
 #' @importFrom bqutils uuln which.col.name content.from.endpoint
 #'
@@ -20,8 +20,6 @@
 #' @examples
 #' api.teams.by.season("20242025")
 api.teams.by.season <- function(season, all.teams=FALSE){
-  all.games.temp <- api.games.by.season(season)
-
   # rds.path <- paste0("inst/extdata/teams.rds")
   rds.path <- system.file("extdata", "teams.rds", package="SLAP")
   if(file.exists(rds.path)){
@@ -34,7 +32,12 @@ api.teams.by.season <- function(season, all.teams=FALSE){
     all.teams.temp <- all.teams.temp[, c("teamId", "triCode", "teamName")]
   }
   if(!all.teams){
-    all.teams.temp <- subset.object(all.teams.temp, uuln(all.games.temp[, c("homeTeamId")]), "teamId")
+    if(season==current.season()){
+      all.teams.temp <- content.from.endpoint("https://api-web.nhle.com/v1/schedule-calendar/now")$teams[,"abbrev"]
+    }else{
+      all.games.temp <- api.games.by.season(season)
+      all.teams.temp <- subset.object(all.teams.temp, uuln(all.games.temp[, c("homeTeamId")]), "teamId")
+    }
   }
   return(all.teams.temp)
 }
@@ -58,9 +61,14 @@ api.players.by.season <- function(season){
     return(all.players.temp)
   }
 
-  all.teams.temp <- api.teams.by.season(season)
+  if(season==current.season()){
+    season.team.tri.codes <- content.from.endpoint("https://api-web.nhle.com/v1/schedule-calendar/now")$teams[,"abbrev"]
+  }else{
+    all.teams.temp <- api.teams.by.season(season)
+    season.team.tri.codes <- all.teams.temp[,"triCode"]
+  }
 
-  season.team.tri.codes <- all.teams.temp[,"triCode"]
+
   suppressWarnings(rm("players.by.team"))
   suppressWarnings(rm("all.players.temp"))
   for(team.number in 1:length(season.team.tri.codes)){
@@ -110,7 +118,13 @@ api.players.by.season <- function(season){
 api.games.by.season <- function(season){
   # rds.path <- paste0("inst/extdata/games/", season, ".games.rds")
   rds.path <- system.file("extdata", "games", paste0(season, ".games.rds"), package="SLAP")
-  all.games.temp <- readRDS(rds.path)
+
+  if(file.exists(rds.path)){
+    all.games.temp <- readRDS(rds.path)
+  }else if(season == current.season()){
+    all.games.temp <- content.from.endpoint("https://api.nhle.com/stats/rest/en/game")$data
+    colnames(all.games.temp)[1] <- "gameId"
+  }
 
   # all.games.temp[,"Date"] <- format(as.Date(all.games.temp[,"easternStartTime"], format="%Y-%m-%dT%H:%M:%S"), "%m-%d-%Y")
   all.games.temp <- all.games.temp[,c("season", "gameId", "easternStartTime", "gameDate", "gameType", "period", "homeScore", "visitingScore", "homeTeamId", "visitingTeamId")]
@@ -120,7 +134,6 @@ api.games.by.season <- function(season){
   # assign("all.games.temp", all.games.temp, envir=parent.env(environment()))
   return(all.games.temp)
 }
-
 
 #' api.players.by.game.type
 #' @importFrom methods is

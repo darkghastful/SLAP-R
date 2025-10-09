@@ -17,7 +17,7 @@ SLAP.team
 }
 \examples{
 \dontrun{
- STL.20242025 <- SLAP(team="STL")
- SLAP.team(STL.20242025)
+STL.20242025 <- SLAP(team="STL")
+SLAP.team(STL.20242025)
 }
 }

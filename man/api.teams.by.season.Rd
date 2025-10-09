@@ -7,15 +7,15 @@
 api.teams.by.season(season, all.teams = FALSE)
 }
 \arguments{
-\item{season}{season string}
+\item{season}{\code{string} Season identifier.}
 
-\item{all.teams}{boolean; all teams}
+\item{all.teams}{\code{logical(1)} Include all past and current teams? Default \code{FALSE}}
 }
 \value{
-dataframe
+'data.frame' A table containing team identifiers.
 }
 \description{
-api.teams.by.season
+Pulls the teams active in the provided season.
 }
 \examples{
 api.teams.by.season("20242025")

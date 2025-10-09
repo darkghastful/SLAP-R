@@ -10,7 +10,7 @@ league
 \section{Slots}{
 
 \describe{
-\item{\code{teams}}{data.frame; teams}
+\item{\code{teams}}{\code{data.frame} Teams that played during specified season.}
 
 \item{\code{players}}{data.frame; players}
 

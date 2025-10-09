@@ -106,38 +106,179 @@ api.players.by.game.type(season, "STL", "regular.season")
 
 ## **Descriptions**
 
+### `api.games.by.season()`
+
+api.games.by.season
+
+- **Arguments**
+  - `season` — season string
+- **Returns**
+  - returns - dataframe
+
+### **Example**
+#### `api.games.by.season()`
+```{r, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE, eval=FALSE}
+api.games.by.season("20242025")
+```
+
+### `api.players.by.game.type()`
+
+api.players.by.game.type
+
+- **Arguments**
+  - `season` — season string
+  - `team` — triCode
+  - `game.type` — choose one ("regular.season" or 2) ("playoffs" or 3)
+- **Returns**
+  - returns - dataframe
+
+### **Example**
+#### `api.players.by.game.type()`
+```{r, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE, eval=FALSE}
+api.players.by.game.type("20242025", "STL", "regular.season")
+```
+
+### `api.players.by.season()`
+
+api.players.by.season
+
+- **Arguments**
+  - `season` — season string
+- **Returns**
+  - returns - dataframe
+
+### **Example**
+#### `api.players.by.season()`
+```{r, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE, eval=FALSE}
+api.players.by.season("20242025")
+```
+
+### `api.teams.by.season()`
+
+Pulls the teams active in the provided season.
+
+- **Arguments**
+  - `season` — `string` Season identifier.
+  - `all.teams` — `logical(1)` Include all past and current teams? Default `FALSE`
+- **Returns**
+  - returns - 'data.frame' A table containing team identifiers.
+
+### **Example**
+#### `api.teams.by.season()`
+```{r, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE, eval=FALSE}
+api.teams.by.season("20242025")
+```
+
+### `current.season()`
+
+current.season
+
+- **Arguments**
+- **Returns**
+  - returns - character
+
+### **Example**
+#### `current.season()`
+```{r, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE, eval=FALSE}
+current.season()
+```
+
+### `showSLAP()`
+
+SLAP
+
+- **Arguments**
+  - `object` — a `SLAPbase` object
+- **Returns**
+  - returns - 
+
+### **Example**
+#### `showSLAP()`
+```{r, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE, eval=FALSE}
+showSLAP()
+```
+
 ### `SLAP()`
 
-<!-- Description -->
+SLAP
 
-<!-- - **Arguments** -->
-<!--   - `arg` — Arg description. -->
-<!-- - **Returns** -->
-<!--   - returns - Return description. -->
+- **Arguments**
+  - `season` — season string
+  - `team` — teamName, teamId, or triCode
+  - `game.types` — list; select one or more c("preseason", "regular.season", "playoffs")
+- **Returns**
+  - returns - SLAP object
 
-<!-- ### **Example** -->
-<!-- #### `function()` -->
-<!-- Additional information. -->
-<!-- ```{r scale, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE} -->
-<!-- function() -->
-<!-- ``` -->
+### **Example**
+#### `SLAP()`
+```{r, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE, eval=FALSE}
+SLAP("20242025", "STL")
+```
 
+### `SLAP.season()`
 
-<!-- ### `function()` -->
+SLAP.season
 
-<!-- Description -->
+- **Arguments**
+  - `SLAPbase` — SLAPbase
+- **Returns**
+  - returns - character
 
-<!-- - **Arguments** -->
-<!--   - `arg` — Arg description. -->
-<!-- - **Returns** -->
-<!--   - returns - Return description. -->
+### **Example**
+#### `SLAP.season()`
+```{r, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE, eval=FALSE}
+SLAP.season(STL.20242025)
+```
 
-<!-- ### **Example** -->
-<!-- #### `function()` -->
-<!-- Additional information. -->
-<!-- ```{r scale, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE} -->
-<!-- function() -->
-<!-- ``` -->
+### `SLAP.team()`
+
+SLAP.team
+
+- **Arguments**
+  - `SLAPbase` — SLAPbase
+- **Returns**
+  - returns - list(teamName, teamId, triCode)
+
+### **Example**
+#### `SLAP.team()`
+```{r, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE, eval=FALSE}
+STL.20242025 <- SLAP(team="STL")
+SLAP.team(STL.20242025)
+```
+
+### `SLAP.zip()`
+
+SLAP.zip
+
+- **Arguments**
+  - `SLAPbase` — SLAPbase
+  - `filename` — default is working dir/season.team.zip
+- **Returns**
+  - returns - zip save
+
+### **Example**
+#### `SLAP.zip()`
+```{r, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE, eval=FALSE}
+STL.20242025 <- SLAP(team="STL")
+SLAP.zip(STL.20242025, "STL.20242025.zip")
+```
+
+### `teamName.teamId.triCode()`
+
+teamName.teamId.triCode
+
+- **Arguments**
+  - `team` — teamName, teamId, or triCode
+  - `SLAPbase` — SLAPbase
+- **Returns**
+  - returns - list(teamName, teamId, triCode)
+
+### **Example**
+#### `teamName.teamId.triCode()`
+```{r, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE, eval=FALSE}
+teamName.teamId.triCode("STL")
+```
+
 
 ---
 

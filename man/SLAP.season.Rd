@@ -17,7 +17,7 @@ SLAP.season
 }
 \examples{
 \dontrun{
- STL.20242025 <- SLAP(team="STL")
- SLAP.season(STL.20242025)
+STL.20242025 <- SLAP(team="STL")
+SLAP.season(STL.20242025)
 }
 }

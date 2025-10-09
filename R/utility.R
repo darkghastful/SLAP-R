@@ -37,7 +37,8 @@ teamName.teamId.triCode <- function(team, SLAPbase=NA){
 #' @examples
 #' current.season()
 current.season <- function(){
-  return("20242025")
+  return("20252026")
+  # return("20242025")
   # seasons <- content.from.endpoint("https://api-web.nhle.com/v1/season")
   # return(rev(seasons)[1])
 }

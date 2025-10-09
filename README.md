@@ -84,31 +84,156 @@ api.players.by.game.type(season, "STL", "regular.season")
 
 ## **Descriptions**
 
+### `api.games.by.season()`
+
+api.games.by.season
+
+- **Arguments**
+  - `season` — season string
+- **Returns**
+  - returns - dataframe
+
+### **Example**
+
+#### `api.games.by.season()`
+
+### `api.players.by.game.type()`
+
+api.players.by.game.type
+
+- **Arguments**
+  - `season` — season string
+  - `team` — triCode
+  - `game.type` — choose one (“regular.season” or 2) (“playoffs” or 3)
+- **Returns**
+  - returns - dataframe
+
+### **Example**
+
+#### `api.players.by.game.type()`
+
+### `api.players.by.season()`
+
+api.players.by.season
+
+- **Arguments**
+  - `season` — season string
+- **Returns**
+  - returns - dataframe
+
+### **Example**
+
+#### `api.players.by.season()`
+
+### `api.teams.by.season()`
+
+Pulls the teams active in the provided season.
+
+- **Arguments**
+  - `season` — `string` Season identifier.
+  - `all.teams` — `logical(1)` Include all past and current teams?
+    Default `FALSE`
+- **Returns**
+  - returns - ‘data.frame’ A table containing team identifiers.
+
+### **Example**
+
+#### `api.teams.by.season()`
+
+### `current.season()`
+
+current.season
+
+- **Arguments**
+- **Returns**
+  - returns - character
+
+### **Example**
+
+#### `current.season()`
+
+### `showSLAP()`
+
+SLAP
+
+- **Arguments**
+  - `object` — a `SLAPbase` object
+- **Returns**
+  - returns -
+
+### **Example**
+
+#### `showSLAP()`
+
 ### `SLAP()`
 
-<!-- Description -->
-<!-- - **Arguments** -->
-<!--   - `arg` — Arg description. -->
-<!-- - **Returns** -->
-<!--   - returns - Return description. -->
-<!-- ### **Example** -->
-<!-- #### `function()` -->
-<!-- Additional information. -->
-<!-- ```{r scale, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE} -->
-<!-- function() -->
-<!-- ``` -->
-<!-- ### `function()` -->
-<!-- Description -->
-<!-- - **Arguments** -->
-<!--   - `arg` — Arg description. -->
-<!-- - **Returns** -->
-<!--   - returns - Return description. -->
-<!-- ### **Example** -->
-<!-- #### `function()` -->
-<!-- Additional information. -->
-<!-- ```{r scale, fig.width=12, fig.asp=90/212, dpi=300, echo=FALSE} -->
-<!-- function() -->
-<!-- ``` -->
+SLAP
+
+- **Arguments**
+  - `season` — season string
+  - `team` — teamName, teamId, or triCode
+  - `game.types` — list; select one or more c(“preseason”,
+    “regular.season”, “playoffs”)
+- **Returns**
+  - returns - SLAP object
+
+### **Example**
+
+#### `SLAP()`
+
+### `SLAP.season()`
+
+SLAP.season
+
+- **Arguments**
+  - `SLAPbase` — SLAPbase
+- **Returns**
+  - returns - character
+
+### **Example**
+
+#### `SLAP.season()`
+
+### `SLAP.team()`
+
+SLAP.team
+
+- **Arguments**
+  - `SLAPbase` — SLAPbase
+- **Returns**
+  - returns - list(teamName, teamId, triCode)
+
+### **Example**
+
+#### `SLAP.team()`
+
+### `SLAP.zip()`
+
+SLAP.zip
+
+- **Arguments**
+  - `SLAPbase` — SLAPbase
+  - `filename` — default is working dir/season.team.zip
+- **Returns**
+  - returns - zip save
+
+### **Example**
+
+#### `SLAP.zip()`
+
+### `teamName.teamId.triCode()`
+
+teamName.teamId.triCode
+
+- **Arguments**
+  - `team` — teamName, teamId, or triCode
+  - `SLAPbase` — SLAPbase
+- **Returns**
+  - returns - list(teamName, teamId, triCode)
+
+### **Example**
+
+#### `teamName.teamId.triCode()`
 
 ------------------------------------------------------------------------
 

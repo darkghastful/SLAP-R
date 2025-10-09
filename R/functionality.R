@@ -13,8 +13,8 @@
 #'
 #' @examples
 #' \dontrun{
-#'  STL.20242025 <- SLAP(team="STL")
-#'  SLAP.season(STL.20242025)
+#' STL.20242025 <- SLAP(team="STL")
+#' SLAP.season(STL.20242025)
 #' }
 SLAP.season <- function(SLAPbase){
   season <- uuln(SLAPbase@league@all.games[,"season"])
@@ -30,8 +30,8 @@ SLAP.season <- function(SLAPbase){
 #'
 #' @examples
 #' \dontrun{
-#'  STL.20242025 <- SLAP(team="STL")
-#'  SLAP.team(STL.20242025)
+#' STL.20242025 <- SLAP(team="STL")
+#' SLAP.team(STL.20242025)
 #' }
 SLAP.team <- function(SLAPbase){
   # team <- teamName.teamId.triCode(teams.in.league(SLAPbase)[1, ], SLAPbase)
